@@ -15,17 +15,17 @@
 
     <body>
         <header class="container-fluid py-3 px-3 px-md-5 header">
-                <div class="row align-items-center justify-content-between gy-3 mb-3">
+                <div class="row align-items-center justify-content-center gy-3 mb-3">
 
                 <!-- Logo -->
-                    <div class="col-6 col-md-auto logo">
+                    <div class="col-3 col-md-auto logo">
                         <a href="./index.php">
                             <img src="" alt="Logo" class="img-fluid imglogo">
                         </a>
                     </div>
                 
                 <!-- Barra de Búsqueda -->
-                    <div class="col-12 col-md order-md-2 px-md-4">
+                    <div class="col-6 px-2">
                         <div class="input-group barradebusq1 align-items-center mx-auto">
                             <input type="text" class="form-control" placeholder="Buscar">
                             <button class="btn" type="button">
@@ -35,7 +35,7 @@
                     </div>
 
                 <!-- Ícono de Usuario -->
-                    <div class="iconodeusuario">
+                    <div class=" col-3 col-md-auto iconodeusuario text-end">
                         <a href="./pages/form.php" class="btn user-btn" type="button">
                             <i class="bi bi-person fs-4"></i>
                         </a>
