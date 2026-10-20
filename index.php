@@ -11,6 +11,6 @@
     </head>
 
     <body>
-    
+        <p>Bienvenido a LookBook Cinema, un sitio dedicado a explorar la composición, colores, planos y vestuario en el cine. Navega por las secciones para descubrir más sobre cada aspecto.</p>
     </body>
 </html>
