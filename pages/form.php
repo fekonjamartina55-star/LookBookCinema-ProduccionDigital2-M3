@@ -60,7 +60,7 @@
             <div class="contenedordelform">
                 <h1>Iniciar Sesión</h1>
 
-                <form action="recibeform.php" method="POST">
+                <form action="recibeform.php" method="post">
                     <div class="campodelform">
                         <label for="usuario">Usuario:</label>
                         <input type="text" id="usuario" name="usuario" placeholder="Juan" required>
