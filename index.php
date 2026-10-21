@@ -41,16 +41,14 @@
                     </div>
                 </div>
 
-                <nav class="barra de botones mt-3">
+                <nav class="mt-3">
                     <!-- Barra de Botones -->
-                    <div class="">
-                        <div class="">
-                            <a href="./pages/composicion.php" class="">Composición</a>
-                            <a href="./pages/colores.php" class="">Colores</a>
-                            <a href="./pages/planos.php" class="">Planos</a>
-                            <a href="./pages/iluminacion.php" class="">Iluminación</a>
-                            <a href="./pages/vestuario.php" class="">Vestuario</a>
-                        </div>
+                    <div class="barradebotones d-flex flex-wrap justify-content-center align-items-center gap-2 gap-md-3">
+                        <a href="./pages/composicion.php" class="btn btn-sm px-3 py-2">Composición</a>
+                        <a href="./pages/colores.php" class="btn btn-sm px-3 py-2">Colores</a>
+                        <a href="./pages/planos.php" class="btn btn-sm px-3 py-2">Planos</a>
+                        <a href="./pages/iluminacion.php" class="btn btn-sm px-3 py-2">Iluminación</a>
+                        <a href="./pages/vestuario.php" class="btn btn-sm px-3 py-2">Vestuario</a>
                     </div>
                 </nav>           
         </header>

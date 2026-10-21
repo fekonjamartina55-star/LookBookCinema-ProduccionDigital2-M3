@@ -46,5 +46,14 @@
     }
 
     /* Barra de Botones */
-    
+    .barradebotones{
+        .btn{
+            background-color: #c18d39;
+            border-color: #c18d39;
+            color: #000000;
+            border-radius: 1.25rem;
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+    }
 }
