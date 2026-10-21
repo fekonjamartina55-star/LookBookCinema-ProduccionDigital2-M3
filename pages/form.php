@@ -57,7 +57,47 @@
         </header>
 
         <main class="main">
-            <br><br><br><br><br><br><br><br><br><br>
+            <!-- Contenedor de todo el formulario -->
+            <div class="containerdelformulario">
+
+                <!-- Título -->
+                <div class="titulodeformulario">
+                    <h2>Iniciar Sesión</h2>
+                </div>
+
+                <!-- Formulario -->
+                <form class="formulario" action="recibe.php" method="post"></form>
+                    <!-- Usuario -->
+                    <div class="campodeformulario">
+                        <label for="usuario">Usuario:</label>
+                        <input type="text" id="usuario" name="usuario" placeholder="Juan" required>
+                    </div>
+
+                    <!-- Email -->
+                    <div class="campodeformulario">
+                        <label for="mail">Correo Electrónico:</label>
+                        <input type="email" id="mail" name="mail" placeholder="Juan@gmail.com" required>
+                    </div>
+
+                    <!-- Contraseña -->
+                    <div class="campodeformulario">
+                        <label for="contraseña">Contraseña:</label>
+                        <input type="password" id="contraseña" name="contraseña" required>
+                    </div>
+
+                    <!-- País -->
+                    <div class="campodeformulario">
+                        <label for="pais">País:</label>
+                        <input type="text" id="pais" name="pais" placeholder="Argentina" required>
+                    </div>
+
+                    <!-- Botones -->
+                    <div class="botonesdelformulario">
+                        <input type="submit">
+                        <input type="reset">
+                    </div>
+                </form>
+            </div>
         </main>
 
         <footer class="footer container-fluid py-4 text-center">
