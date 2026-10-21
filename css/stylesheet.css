@@ -1,4 +1,5 @@
 html, body{
+    /* Márgenes y Relleno de toda la página */
     margin: 0;
     padding: 0;
     width: 100%;
@@ -34,6 +35,8 @@ html, body{
         .form-control{
             border: none;
             background: transparent;
+            color: #000000;
+            font-family: 'Times New Roman';
         }
 
         .btn{
@@ -84,6 +87,7 @@ html, body{
 }
 
 .footer{
+    /* Footer */
     background-color: #700912;
     width: 100%;
 
