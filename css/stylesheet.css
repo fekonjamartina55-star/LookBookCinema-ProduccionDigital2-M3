@@ -82,9 +82,70 @@ html, body{
     }
 }
 
-.main{
+.maindelform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2.5rem 1.25rem;
     background-color: #F0E5D2;
-    
+
+    .contenedordelform{
+        width: 100%;
+        text-align: center;
+    }
+
+    h1{
+        font-family: 'Cinzel';
+        color: #700912;
+        font-size: 2.2rem;
+        font-size: 500;
+        margin-bottom: 2.5rem;
+    }
+
+    .campodelform{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 1.25rem;
+
+        label{
+            font-family: 'Cinzel';
+            color: #700912;
+            margin-right: 0.9375rem;
+            font-size: 1.2rem;
+            font-weight: 500;
+        }
+
+        input{
+            width: 16.875rem;
+            border: none;
+            border-radius: 1.25rem;
+            background-color: #ffffff;
+            outline: none;
+            padding: 0.625rem 0.9375rem;
+            color: #000000;
+            font-family: 'Times New Roman';
+        }
+    }
+
+    .botonesdelform{
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        margin-top: 2rem;
+
+        input{
+            width: 10.5625rem;
+            padding: 0.625rem 0.9375rem;
+            border: none;
+            border-radius: 0.625rem;
+            background-color: #c18d39;
+            color: #000000;
+            font-family: 'Cinzel';
+            font-size: 1.2rem;
+            font-weight: 400;
+        }
+    }
 }
 
 .footer{

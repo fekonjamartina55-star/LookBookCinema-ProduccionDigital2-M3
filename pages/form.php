@@ -56,43 +56,32 @@
             </nav>      
         </header>
 
-        <main class="main">
-            <!-- Contenedor de todo el formulario -->
-            <div class="containerdelformulario">
+        <main class="maindelform">
+            <div class="contenedordelform">
+                <h1>Iniciar Sesión</h1>
 
-                <!-- Título -->
-                <div class="titulodeformulario">
-                    <h2>Iniciar Sesión</h2>
-                </div>
-
-                <!-- Formulario -->
-                <form class="formulario" action="recibe.php" method="post"></form>
-                    <!-- Usuario -->
-                    <div class="campodeformulario">
+                <form action="recibeform.php" method="POST">
+                    <div class="campodelform">
                         <label for="usuario">Usuario:</label>
                         <input type="text" id="usuario" name="usuario" placeholder="Juan" required>
                     </div>
 
-                    <!-- Email -->
-                    <div class="campodeformulario">
+                    <div class="campodelform">
                         <label for="mail">Correo Electrónico:</label>
                         <input type="email" id="mail" name="mail" placeholder="Juan@gmail.com" required>
                     </div>
 
-                    <!-- Contraseña -->
-                    <div class="campodeformulario">
+                    <div class="campodelform">
                         <label for="contraseña">Contraseña:</label>
                         <input type="password" id="contraseña" name="contraseña" required>
                     </div>
 
-                    <!-- País -->
-                    <div class="campodeformulario">
+                    <div class="campodelform">
                         <label for="pais">País:</label>
                         <input type="text" id="pais" name="pais" placeholder="Argentina" required>
                     </div>
 
-                    <!-- Botones -->
-                    <div class="botonesdelformulario">
+                    <div class="botonesdelform">
                         <input type="submit">
                         <input type="reset">
                     </div>
