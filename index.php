@@ -28,18 +28,16 @@
                 <div class="col-9 col-md-8 col-lg-7 d-flex align-items-center justify-content-end gap-2 gap-md-3">
                     <!-- Barra de Búsqueda -->
                     <div class="input-group barradebusq1 align-items-center">
-                        <div class="input-group barradebusq1 align-items-center">
-                            <input type="text" class="form-control" placeholder="Buscar">
-                            <button class="btn" type="button">
-                                <i class="bi bi-search fs-5"></i>
-                            </button>
-                        </div>
+                        <input type="text" class="form-control" placeholder="Buscar">
+                        <button class="btn" type="button">
+                            <i class="bi bi-search fs-5"></i>
+                        </button>
                     </div>
 
                     <!-- Ícono de Usuario -->
                     <div class=" iconodeusuario text-end">
                         <a href="./pages/form.php" class="btn user-btn" type="button">
-                            <i class="bi bi-person fs-4"></i>
+                            <img src="./img/usuario.png" alt="Usuario" class="img-usuario">
                         </a>
                     </div>
                 </div>
