@@ -46,20 +46,21 @@
             <!-- Contenedor de Botones de Navegación -->
             <nav class="mt-3">
                 <!-- Barra de Botones -->
-                <div class="barradebotones d-flex flex-wrap justify-content-center align-items-center gap-2 gap-md-3">
+                <div class="barradebotones d-flex flex-wrap justify-content-center align-items-center gap-4 gap-md-5">
                     <a href="./pages/composicion.php" class="btn btn-sm px-3 py-2">Composición</a>
                     <a href="./pages/colores.php" class="btn btn-sm px-3 py-2">Colores</a>
                     <a href="./pages/planos.php" class="btn btn-sm px-3 py-2">Planos</a>
                     <a href="./pages/iluminacion.php" class="btn btn-sm px-3 py-2">Iluminación</a>
                     <a href="./pages/vestuario.php" class="btn btn-sm px-3 py-2">Vestuario</a>
                 </div>
-            </nav>           
+            </nav>      
         </header>
 
         <main>
+            <p>HOLA</p>
         </main>
 
-        <footer>
+        <footer class="footer">
         </footer>
         <script type="module" src="https://cdn.jsdelivr.net/npm/bootstrap@6.0.0-alpha.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-1a/pXj49ZQ1aHEmrJ+gMw1otqoVsYwlEnlD8mIfY2TV03r20Y0CN7uqx1tQogjPL" crossorigin="anonymous"></script>
     </body>

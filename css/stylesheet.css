@@ -1,7 +1,17 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+
 .header{
     /* Header */
     background-color: #700912;
     width: 100%;
+    max-width: 100%;
+    margin: 0;
+    box-sizing: border-box;
 
     /* Logo */
     .logo{
@@ -57,9 +67,14 @@
             background-color: #c18d39;
             border-color: #c18d39;
             color: #000000;
-            border-radius: 1.25rem;
+            border-radius: 1.75rem;
             font-weight: 500;
-            font-size: 0.9rem;
+            font-size: 1.1rem;
+            padding: 0.6rem 1.5rem;
         }
     }
+}
+
+.footer{
+    background-color: #700912;
 }
