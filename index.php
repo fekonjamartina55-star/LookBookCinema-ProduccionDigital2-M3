@@ -15,17 +15,20 @@
 
     <body>
         <header class="container-fluid py-3 px-3 px-md-5 header">
-                <div class="row align-items-center justify-content-center gy-3 mb-3">
-                    <!-- Logo -->
-                    <div class="col-3 col-md-auto logo">
-                        <a href="./index.php">
-                            <img src="./img/logo.png" alt="Logo" class="img-fluid imglogo">
-                        </a>
-                    </div>
+            <!-- Contenedor de Logo, Barra de Búsqueda e Ícono de Usuario -->
+            <div class="row align-items-center justify-content-center gy-3 mb-3">
+                <!-- Logo -->
+                <div class="col-3 col-md-auto logo">
+                    <a href="./index.php">
+                        <img src="./img/logo.png" alt="Logo" class="img-fluid imglogo">
+                    </a>
+                </div>
                 
+                <!-- Contenedor para Barra de Búsqueda e Ícono de Usuario -->
+                <div class="col-9 col-md-8 col-lg-7 d-flex align-items-center justify-content-end gap-2 gap-md-3">
                     <!-- Barra de Búsqueda -->
-                    <div class="col-6 px-2">
-                        <div class="input-group barradebusq1 align-items-center mx-auto">
+                    <div class="input-group barradebusq1 align-items-center">
+                        <div class="input-group barradebusq1 align-items-center">
                             <input type="text" class="form-control" placeholder="Buscar">
                             <button class="btn" type="button">
                                 <i class="bi bi-search fs-5"></i>
@@ -34,23 +37,25 @@
                     </div>
 
                     <!-- Ícono de Usuario -->
-                    <div class=" col-3 col-md-auto iconodeusuario text-end">
+                    <div class=" iconodeusuario text-end">
                         <a href="./pages/form.php" class="btn user-btn" type="button">
                             <i class="bi bi-person fs-4"></i>
                         </a>
                     </div>
                 </div>
-
-                <nav class="mt-3">
-                    <!-- Barra de Botones -->
-                    <div class="barradebotones d-flex flex-wrap justify-content-center align-items-center gap-2 gap-md-3">
-                        <a href="./pages/composicion.php" class="btn btn-sm px-3 py-2">Composición</a>
-                        <a href="./pages/colores.php" class="btn btn-sm px-3 py-2">Colores</a>
-                        <a href="./pages/planos.php" class="btn btn-sm px-3 py-2">Planos</a>
-                        <a href="./pages/iluminacion.php" class="btn btn-sm px-3 py-2">Iluminación</a>
-                        <a href="./pages/vestuario.php" class="btn btn-sm px-3 py-2">Vestuario</a>
-                    </div>
-                </nav>           
+            </div>
+            
+            <!-- Contenedor de Botones de Navegación -->
+            <nav class="mt-3">
+                <!-- Barra de Botones -->
+                <div class="barradebotones d-flex flex-wrap justify-content-center align-items-center gap-2 gap-md-3">
+                    <a href="./pages/composicion.php" class="btn btn-sm px-3 py-2">Composición</a>
+                    <a href="./pages/colores.php" class="btn btn-sm px-3 py-2">Colores</a>
+                    <a href="./pages/planos.php" class="btn btn-sm px-3 py-2">Planos</a>
+                    <a href="./pages/iluminacion.php" class="btn btn-sm px-3 py-2">Iluminación</a>
+                    <a href="./pages/vestuario.php" class="btn btn-sm px-3 py-2">Vestuario</a>
+                </div>
+            </nav>           
         </header>
 
         <main>
