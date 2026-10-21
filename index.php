@@ -14,7 +14,7 @@
     </head>
 
     <body>
-        <header class="container-fluid py-3 px-3 px-md-5 header">
+        <header class="container-fluid pt-6 pb-4 px-3 px-md-5 header">
             <!-- Contenedor de Logo, Barra de Búsqueda e Ícono de Usuario -->
             <div class="row align-items-center justify-content-center gy-3 mb-3">
                 <!-- Logo -->
@@ -44,7 +44,7 @@
             </div>
             
             <!-- Contenedor de Botones de Navegación -->
-            <nav class="mt-3">
+            <nav class="mt-5 mb-4">
                 <!-- Barra de Botones -->
                 <div class="barradebotones d-flex flex-wrap justify-content-center align-items-center gap-4 gap-md-5">
                     <a href="./pages/composicion.php" class="btn btn-sm px-3 py-2">Composición</a>
@@ -56,7 +56,7 @@
             </nav>      
         </header>
 
-        <main>
+        <main class="main">
             <p>HOLA</p>
         </main>
 

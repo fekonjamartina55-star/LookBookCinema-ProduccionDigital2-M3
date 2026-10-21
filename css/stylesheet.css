@@ -2,6 +2,7 @@ html, body{
     margin: 0;
     padding: 0;
     width: 100%;
+    background-color: #700912;
 }
 
 
@@ -9,14 +10,14 @@ html, body{
     /* Header */
     background-color: #700912;
     width: 100%;
-    max-width: 100%;
-    margin: 0;
+    padding-top: 2rem;
     box-sizing: border-box;
 
     /* Logo */
     .logo{
         .imglogo{
             height: 5.5rem;
+            padding-left: 0.945rem;
             width: auto;
             object-fit: contain;
         }
@@ -52,6 +53,7 @@ html, body{
             background: transparent;
             color: #c18d39;
             padding: 0.25rem 0.5rem;
+            padding-right: 0.945rem;
 
             .img-usuario{
                 height: 3rem;
@@ -75,6 +77,11 @@ html, body{
     }
 }
 
+.main{
+    background-color: #F0E5D2;
+}
+
 .footer{
     background-color: #700912;
 }
+
