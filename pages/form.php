@@ -56,10 +56,12 @@
             </nav>      
         </header>
 
-        <main>
+        <main class="main">
+            <br><br><br><br><br><br><br><br><br><br>
         </main>
 
-        <footer>
+        <footer class="footer container-fluid py-4 text-center">
+            <p class="mb-0 textodefooter">©2026 Desarrollado por Martina Fekonja Casiña & Ezequiel López Mic</p>
         </footer>
         <script type="module" src="https://cdn.jsdelivr.net/npm/bootstrap@6.0.0-alpha.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-1a/pXj49ZQ1aHEmrJ+gMw1otqoVsYwlEnlD8mIfY2TV03r20Y0CN7uqx1tQogjPL" crossorigin="anonymous"></script>
     </body>
