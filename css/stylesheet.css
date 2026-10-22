@@ -1,8 +1,7 @@
-html, body{
+body{
     /* Márgenes y Relleno de toda la página */
     margin: 0;
     padding: 0;
-    width: 100%;
     background-color: #700912;
 }
 
@@ -12,39 +11,37 @@ html, body{
     width: 100%;
     padding-top: 2rem;
     box-sizing: border-box;
+}
 
+.imglogo{
     /* Logo */
-    .logo{
+    height: 5.5rem;
+    padding-left: 0.945rem;
+    width: auto;
+    object-fit: contain;
+}
 
-        .imglogo{
-            height: 5.5rem;
-            padding-left: 0.945rem;
-            width: auto;
-            object-fit: contain;
-        }
-    }
-
+.barradebusq1{
     /* Barra de Búsqueda */
-    .barradebusq1{
-        background-color: #ffffff;
-        border-radius: 50rem;
-        padding: 0.25rem 0.75rem;
-        max-width: 500px;
-        width: 100%;
+    background-color: #ffffff;
+    border-radius: 50rem;
+    padding: 0.25rem 0.75rem;
+    max-width: 500px;
+    width: 100%;
+}
 
-        .form-control{
-            border: none;
-            background: transparent;
-            color: #000000;
-            font-family: 'Times New Roman';
-        }
+.form-control{
+    border: none;
+    background: transparent;
+    color: #000000;
+    font-family: 'Times New Roman';
+}
 
         .btn{
             border: none;
             background: transparent;
             color: #000000;
         }
-    }
         
     /* Ícono de Usuario */
     .iconodeusuario{
@@ -80,7 +77,7 @@ html, body{
             font-family: 'Cinzel';
         }
     }
-}
+
 
 .maindelform{
     display: flex;
