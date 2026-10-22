@@ -19,7 +19,26 @@
         </header>
 
         <main class="main">
-            <br><br><br><br><br><br><br><br><br><br>
+            <!-- Bajada -->
+            <section>
+                <div>
+
+                </div>
+            </section>
+
+            <!-- Tipos de iluminación -->
+            <section>
+                <div>
+
+                </div>
+            </section>
+
+            <!-- Películas destacadas por su iluminación -->
+            <section>
+                <div>
+                    
+                </div>
+            </section>
         </main>
 
         <footer class="footer container-fluid py-4 text-center">

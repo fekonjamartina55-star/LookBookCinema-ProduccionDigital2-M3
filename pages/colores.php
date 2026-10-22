@@ -21,17 +21,23 @@
         <main class="main">
             <!-- Bajada -->
             <section>
+                <div>
 
+                </div>
             </section>
 
             <!-- Colores y su explicación -->
             <section>
+                <div>
 
+                </div>
             </section>
 
-            <!-- Paletas de películas -->
+            <!-- Películas destacadas por su uso de colores -->
             <section>
+                <div>
 
+                </div>
             </section>
         </main>
 

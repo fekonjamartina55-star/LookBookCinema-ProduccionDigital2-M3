@@ -19,7 +19,33 @@
         </header>
 
         <main class="main">
-            <br><br><br><br><br><br><br><br><br><br>
+            <!-- Bajada -->
+            <section>
+                <div>
+
+                </div>
+            </section>
+
+            <!-- Tipos de planos -->
+            <section>
+                <div>
+
+                </div>
+            </section>
+
+            <!-- Tipos de ángulos -->
+            <section>
+                <div>
+                    
+                </div>
+            </section>
+
+            <!-- Películas destacadas por su uso de planos y ángulos -->
+            <section>
+                <div>
+                    
+                </div>
+            </section>
         </main>
 
         <footer class="footer container-fluid py-4 text-center">
