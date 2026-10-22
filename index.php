@@ -35,7 +35,7 @@
                     </div>
 
                     <!-- Ícono de Usuario -->
-                    <div class=" iconodeusuario text-end">
+                    <div class="iconodeusuario text-end">
                         <a href="./pages/form.php" class="btn user-btn" type="button">
                             <img src="./img/usuario1.png" alt="Usuario" class="img-usuario">
                         </a>
