@@ -39,7 +39,7 @@
 
                     <!-- Botón de Inicio de Sesión -->
                     <div class="iconodeusuario text-end">
-                        <a href="./pages/form.php" class="btn user-btn" type="button">
+                        <a href="./pages/form.php">
                             <img src="./img/usuario1.png" alt="Usuario" class="img-usuario">
                         </a>
                     </div>
