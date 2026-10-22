@@ -15,45 +15,48 @@
     
     <body>
         <header class="container-fluid pt-6 pb-4 px-3 px-md-5 header">
-            <!-- Contenedor de Logo, Barra de Búsqueda e Ícono de Usuario -->
+            <!-- Contenedor de Logo y contenedor de Barra de Búsqueda y Botón de Inicio de Sesión -->
             <div class="row align-items-center justify-content-center gy-3 mb-3">
                 <!-- Logo -->
                 <div class="col-3 col-md-auto logo">
-                    <a href="../index.php">
-                        <img src="../img/logo.png" alt="Logo" class="img-fluid imglogo">
+                    <a href="./index.php">
+                        <img src="./img/logo.png" alt="Logo" class="img-fluid imglogo">
                     </a>
                 </div>
                 
-                <!-- Contenedor para Barra de Búsqueda e Ícono de Usuario -->
+                <!-- Contenedor de Barra de Búsqueda y Botón de Inicio de Sesión -->
                 <div class="col-9 col-md-8 col-lg-7 d-flex align-items-center justify-content-end gap-2 gap-md-3">
                     <!-- Barra de Búsqueda -->
                     <div class="input-group barradebusq1 align-items-center">
-                        <input type="text" class="form-control" placeholder="Buscar">
-                        <button class="btn" type="button">
-                            <i class="bi bi-search fs-5"></i>
-                        </button>
+                        form
+                            label
+                            <input type="text" class="form-control" placeholder="Buscar">
+                            <button class="btn" type="button">
+                                <i class="bi bi-search fs-5"></i>
+                            </button>
+                        form
                     </div>
 
-                    <!-- Ícono de Usuario -->
-                    <div class=" iconodeusuario text-end">
-                        <a href="../pages/form.php" class="btn user-btn" type="button">
-                            <img src="../img/usuario1.png" alt="Usuario" class="img-usuario">
+                    <!-- Botón de Inicio de Sesión -->
+                    <div class="iconodeusuario text-end">
+                        <a href="./pages/form.php" class="btn user-btn" type="button">
+                            <img src="./img/usuario1.png" alt="Usuario" class="img-usuario">
                         </a>
                     </div>
                 </div>
             </div>
             
-            <!-- Contenedor de Botones de Navegación -->
+            <!-- Barra de Navegación -->
             <nav class="mt-5 mb-4">
-                <!-- Barra de Botones -->
+                <!-- Botones -->
                 <div class="barradebotones d-flex flex-wrap justify-content-center align-items-center gap-4 gap-md-5">
-                    <a href="../pages/composicion.php" class="btn btn-sm px-3 py-2">Composición</a>
-                    <a href="../pages/colores.php" class="btn btn-sm px-3 py-2">Colores</a>
-                    <a href="../pages/planos.php" class="btn btn-sm px-3 py-2">Planos</a>
-                    <a href="../pages/iluminacion.php" class="btn btn-sm px-3 py-2">Iluminación</a>
-                    <a href="../pages/vestuario.php" class="btn btn-sm px-3 py-2">Vestuario</a>
+                    <a href="./pages/composicion.php" class="btn btn-sm px-3 py-2">Composición</a>
+                    <a href="./pages/colores.php" class="btn btn-sm px-3 py-2">Colores</a>
+                    <a href="./pages/planos.php" class="btn btn-sm px-3 py-2">Planos</a>
+                    <a href="./pages/iluminacion.php" class="btn btn-sm px-3 py-2">Iluminación</a>
+                    <a href="./pages/vestuario.php" class="btn btn-sm px-3 py-2">Vestuario</a>
                 </div>
-            </nav>      
+            </nav>
         </header>
 
         <main class="maindelform">
