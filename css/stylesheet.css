@@ -153,3 +153,53 @@ input{
     font-size: 0.9rem;
     font-weight: 500;
 }
+
+main{
+    background-color: #F0E5D2;
+    padding: 2rem;
+}
+
+.acercade{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    margin: 0 7% 45px;
+    color: #700912;  
+}
+
+h2{
+    font-family: 'Cinzel';
+    color: #700912;
+}
+
+.acercadetexto{
+    max-width: 500px;
+    font-family: 'Times New Roman';
+    font-size: 1.1rem;
+}
+
+.galeria-peliculas{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 12px;
+}
+
+.imgpeliculas{
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+}
+
+.galeria-directores{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 12px;
+}
+
+.imgrealizador{
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    border-radius: 12px;
+}

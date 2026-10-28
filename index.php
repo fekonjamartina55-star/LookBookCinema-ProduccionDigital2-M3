@@ -58,25 +58,41 @@
             </nav>      
         </header>
 
-        <main class="main">
+        <main>
             <!-- Bajada -->
-            <section>
-                <div>
+            <section class="acercade">
+                <div class="acercadetexto">
+                    <h2>Acerca de LookBook Cinema</h2>
+                    <p>Es una enciclopedia visual de cine donde puedes buscar inspiración e información específica sobre películas, sin tener que navegar entre miles de páginas desordenadas. La página tiene contenido sobre directores, estilos visuales, planos de cámara, vestuarios, iluminación, géneros cinematográficos y mucho más, todo organizado de manera clara y accesible.</p>
+                </div>
 
+                <img src="./img/claqueta.png" alt="claqueta" width="250px" height="auto">
+            </section>
+
+            <!-- Películas destacadas -->
+            <section>
+                <h2>Películas que revolucionaron el cine</h2>
+
+                <div class="galeria-peliculas">
+                    <img class="imgpeliculas" src="./img/2001aspaceodyssey - afiche.jpeg" alt="2001: Odisea del espacio">
+                    <img class="imgpeliculas" src="./img/thewizardofoz - afiche.jpeg" alt="El mago de Oz">
+                    <img class="imgpeliculas" src="./img/thematrix - afiche.jpeg" alt="Matrix">
+                    <img class="imgpeliculas" src="./img/psycho - afiche.jpeg" alt="Psicosis">
+                    <img class="imgpeliculas" src="./img/starwars - afiche.jpeg" alt="Star Wars">
                 </div>
             </section>
 
             <!-- Directores destacados -->
             <section>
-                <div>
+                <h2 class="mt-10">Directores revolucionarios</h2>
 
-                </div>
-            </section>
-
-            <!-- Películas destacadas -->
-            <section>
-                <div>
-
+                <div class="galeria-directores">
+                    <img class="imgrealizador" src="./img/spielberg.jpeg" alt="Steven Spielberg">
+                    <img class="imgrealizador" src="./img/miyazaki.jpeg" alt="Hayao Miyazaki">
+                    <img class="imgrealizador" src="./img/nolan.jpeg" alt="Christopher Nolan">
+                    <img class="imgrealizador" src="./img/scorsese.jpeg" alt="Martin Scorsese">
+                    <img class="imgrealizador" src="./img/kurosawa.jpeg" alt="Akira Kurosawa">
+                    <img class="imgrealizador" src="./img/gerwig.jpeg" alt="Greta Gerwig">
                 </div>
             </section>
         </main>
