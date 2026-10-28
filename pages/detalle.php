@@ -18,6 +18,7 @@
         ?>
 
         <h1><?php echo $pelicula['nombre']; ?></h1>
+        <img src="../img/<?php echo $pelicula['imagen']; ?>" alt="Afiche de película" width="300">
         <p>Director: <?php echo $pelicula['director']; ?></p>
         <p>Año: <?php echo $pelicula['año']; ?></p>
         <p>Duración: <?php echo $pelicula['duracion']; ?></p>
