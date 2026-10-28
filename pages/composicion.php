@@ -60,10 +60,13 @@
 
         <main class="main">
             <!-- Bajada -->
-            <section>
-                <div>
-
+            <section class="acercade">
+                <div class="acercadetexto">
+                    <h2>Composición</h2>
+                    <p>La composición organiza los elementos dentro del encuadre para guiar la mirada del espectador y transmitir significado.</p>
                 </div>
+
+                <img src="./img/.png" alt="composición" width="250px" height="auto">
             </section>
 
             <!-- Principios de la composición -->

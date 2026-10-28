@@ -60,10 +60,13 @@
 
         <main class="main">
             <!-- Bajada -->
-            <section>
-                <div>
-
+            <section class="acercade">
+                <div class="acercadetexto">
+                    <h2>Colores</h2>
+                    <p>El color comunica emociones, simboliza ideas y construye atmósferas. Descubrí cómo se usan las paletas para contar historias inolvidables.</p>
                 </div>
+
+                <img src="./img/.png" alt="colores" width="250px" height="auto">
             </section>
 
             <!-- Colores y su explicación -->

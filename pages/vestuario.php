@@ -63,10 +63,10 @@
             <section class="acercade">
                 <div class="acercadetexto">
                     <h2>Vestuario</h2>
-                    <p>La Iluminación define el estado de animo, la profundidad y la narrativa de una escena. Explora las técnicas utilizadas por los directores para dar vida a sus historias</p>
+                    <p>El vestuario revela la personalidad, estética y la evolución de los personajes. Explorá los diseños que marcaron el cine.</p>
                 </div>
 
-                <img src="./img/vestuario.png" alt="vestuario" width="250px" height="auto">
+                <img src="./img/.png" alt="vestuario" width="250px" height="auto">
             </section>
 
             <!-- Diseñadores de vestuario destacados -->

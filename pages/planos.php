@@ -60,10 +60,13 @@
 
         <main class="main">
             <!-- Bajada -->
-            <section>
-                <div>
-
+            <section class="acercade">
+                <div class="acercadetexto">
+                    <h2>Planos</h2>
+                    <p>Los planos definen la distancia entre la cámara y el sujeto, ayudando a construir la emoción, la tensión y la forma de contar una escena.</p>
                 </div>
+
+                <img src="./img/.png" alt="planos" width="250px" height="auto">
             </section>
 
             <!-- Tipos de planos -->
