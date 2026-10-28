@@ -27,15 +27,14 @@
                 <!-- Contenedor de Barra de Búsqueda y Botón de Inicio de Sesión -->
                 <div class="col-9 col-md-8 col-lg-7 d-flex align-items-center justify-content-end gap-2 gap-md-3">
                     <!-- Barra de Búsqueda -->
-                    <div class="input-group barradebusq1 align-items-center">
-                        form
-                            label
-                            <input type="text" class="form-control" placeholder="Buscar">
-                            <button class="btn" type="button">
-                                <i class="bi bi-search fs-5"></i>
+                    <form action="./pages/recibebusq.php" method="GET" class="input-group barradebusq1">
+                        <div class="input-group barradebusq1">
+                            <input type="search" name="busqueda" class="form-control" placeholder="Buscar">
+                            <button class="btnlupa" type="submit">
+                                <i class="bi bi-search"></i>
                             </button>
-                        form
-                    </div>
+                        </div>
+                    </form>
 
                     <!-- Botón de Inicio de Sesión -->
                     <div class="iconodeusuario text-end">

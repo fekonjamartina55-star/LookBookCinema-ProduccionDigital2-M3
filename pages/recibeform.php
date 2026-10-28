@@ -13,10 +13,7 @@
             $contraseña = $_POST['contraseña'];
             $pais = $_POST['pais'];
 
-            $conexion = mysqli_connect("localhost", "root", "", "lookbookcinema");
-            if (!$conexion){
-                die("Falló la conexión" . mysqli_connect_error());
-            }
+            include("conexion.php");
 
             $query1 = "INSERT INTO usuarios (usuario, mail, contraseña, pais) VALUES ('$usuario', '$mail', '$contraseña', '$pais')";
             if (mysqli_query($conexion, $query1)) {
