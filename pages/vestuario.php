@@ -60,23 +60,39 @@
 
         <main class="main">
             <!-- Bajada -->
-            <section>
-                <div>
-
+            <section class="acercade">
+                <div class="acercadetexto">
+                    <h2>Vestuario</h2>
+                    <p>La Iluminación define el estado de animo, la profundidad y la narrativa de una escena. Explora las técnicas utilizadas por los directores para dar vida a sus historias</p>
                 </div>
+
+                <img src="./img/vestuario.png" alt="vestuario" width="250px" height="auto">
             </section>
 
             <!-- Diseñadores de vestuario destacados -->
             <section>
-                <div>
-                    
+                    <h2>Películas con un gran vestuario</h2>
+
+                <div class="galeria-peliculas">
+                    <img class="imgpeliculas" src="./img/.jpeg" alt="">
+                    <img class="imgpeliculas" src="./img/.jpeg" alt="">
+                    <img class="imgpeliculas" src="./img/.jpeg" alt="">
+                    <img class="imgpeliculas" src="./img/.jpeg" alt="">
+                    <img class="imgpeliculas" src="./img/.jpeg" alt="">
                 </div>
             </section>
 
             <!-- Películas destacadas por su vestuario -->
             <section>
-                <div>
-                    
+                <h2 class="mt-10">Vestuaristas revolucionarias</h2>
+
+                <div class="galeria-directores">
+                    <img class="imgrealizador" src="./img/.jpeg" alt="">
+                    <img class="imgrealizador" src="./img/.jpeg" alt="">
+                    <img class="imgrealizador" src="./img/.jpeg" alt="">
+                    <img class="imgrealizador" src="./img/.jpeg" alt="">
+                    <img class="imgrealizador" src="./img/.jpeg" alt="">
+                    <img class="imgrealizador" src="./img/.jpeg" alt="">
                 </div>
             </section>
         </main>
