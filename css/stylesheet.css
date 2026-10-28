@@ -111,15 +111,15 @@ label{
     font-weight: 500;
 }
 
-input{
+.inputcampos{
     width: 16.875rem;
     border: none;
     border-radius: 1.25rem;
-    background-color: #ffffff;
+    background-color: #c18d39;
     outline: none;
     padding: 0.625rem 0.9375rem;
-    color: #000000;
     font-family: 'Times New Roman';
+    font-weight: 400;
 }
 
 .botonesdelform{

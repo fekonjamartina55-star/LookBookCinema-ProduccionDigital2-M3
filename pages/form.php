@@ -65,22 +65,22 @@
                 <form action="recibeform.php" method="post">
                     <div class="campodelform">
                         <label for="usuario">Usuario:</label>
-                        <input type="text" id="usuario" name="usuario" placeholder="Juan" required>
+                        <input type="text" id="usuario" name="usuario" placeholder="Juan" required class="inputcampos">
                     </div>
 
                     <div class="campodelform">
                         <label for="mail">Correo Electrónico:</label>
-                        <input type="email" id="mail" name="mail" placeholder="Juan@gmail.com" required>
+                        <input type="email" id="mail" name="mail" placeholder="Juan@gmail.com" required class="inputcampos">
                     </div>
 
                     <div class="campodelform">
                         <label for="contraseña">Contraseña:</label>
-                        <input type="password" id="contraseña" name="contraseña" required>
+                        <input type="password" id="contraseña" name="contraseña" required class="inputcampos">
                     </div>
 
                     <div class="campodelform">
                         <label for="pais">País:</label>
-                        <input type="text" id="pais" name="pais" placeholder="Argentina" required>
+                        <input type="text" id="pais" name="pais" placeholder="Argentina" required class="inputcampos">
                     </div>
 
                     <div class="botonesdelform">
