@@ -74,15 +74,15 @@
                 <h2>Tipos de iluminación</h2>
 
                 <div class="galeria-tipos">
-                    <img src="../img/" alt="Tipo de iluminación 1">
-                    <img src="../img/" alt="Tipo de iluminación 2">
-                    <img src="../img/" alt="Tipo de iluminación 3">
-                    <img src="../img/" alt="Tipo de iluminación 4">
-                    <img src="../img/" alt="Tipo de iluminación 5">
-                    <img src="../img/" alt="Tipo de iluminación 6">
-                    <img src="../img/" alt="Tipo de iluminación 7">
-                    <img src="../img/" alt="Tipo de iluminación 8">
-                    <img src="../img/" alt="Tipo de iluminación 9">
+                    <img src="../img/" alt="Iluminación 1">
+                    <img src="../img/" alt="Iluminación 2">
+                    <img src="../img/" alt="Iluminación 3">
+                    <img src="../img/" alt="Iluminación 4">
+                    <img src="../img/" alt="Iluminación 5">
+                    <img src="../img/" alt="Iluminación 6">
+                    <img src="../img/" alt="Iluminación 7">
+                    <img src="../img/" alt="Iluminación 8">
+                    <img src="../img/" alt="Iluminación 9">
                 </div>
             </section>
 

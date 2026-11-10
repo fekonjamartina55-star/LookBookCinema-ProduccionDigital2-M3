@@ -79,7 +79,7 @@
 
                         <div class="texto-principio">
                             <h3>Regla de los tercios</h3>
-                            <p>Divide la imagen en nueve cuadrículas iguales y sus puntos de intersección funcionan como puntos de interés para ubicar los elementos importantes.</p>
+                            <p>Alinear el sujeto con las líneas guía y sus puntos de intersección, colocando el horizonte en la línea superior o inferior.</p>
                         </div>
                     </div>
 
@@ -88,7 +88,7 @@
 
                         <div class="texto-principio">
                             <h3>Simetría</h3>
-                            <p>Ambos lados de la imagen reflejan uno al otro, creando balance y equilibrio visual.</p>
+                            <p>Ambos lados de la imagen reflejan uno al otro para lograr un equilibrio perfecto.</p>
                         </div>
                     </div>
 
@@ -97,7 +97,7 @@
 
                         <div class="texto-principio">
                             <h3>Espiral de Fibonacci</h3>
-                            <p>También conocida como proporción áurea, organiza los elementos para dirigir la mirada del espectador hacia un punto de interés.</p>
+                            <p>También conocida como proporción áurea. Ayuda a guiar la mirada del espectador a través de la imagen.</p>
                         </div>
                     </div>
 
@@ -106,7 +106,7 @@
 
                         <div class="texto-principio">
                             <h3>Asimetría</h3>
-                            <p>Proporciona equilibrio a la imagen mediante una distribución desigual de los elementos.</p>
+                            <p>Ausencia o ruptura de la simetría: una imagen cuyos dos lados no coinciden.</p>
                         </div>
                     </div>
 
@@ -115,7 +115,7 @@
 
                         <div class="texto-principio">
                             <h3>Triángulos</h3>
-                            <p>Agrupar los puntos dentro de un encuadre para formar estructuras triangulares genera estabilidad y una composición dinámica.</p>
+                            <p>Agrupar tres puntos dentro de un encuadre para transmitir estabilidad o inestabilidad.</p>
                         </div>
                     </div>
 
@@ -124,7 +124,7 @@
 
                         <div class="texto-principio">
                             <h3>Espacio negativo</h3>
-                            <p>El espacio negativo permite destacar al sujeto principal, dejando áreas vacías a su alrededor para atraer la atención.</p>
+                            <p>Define y enfatiza el sujeto principal, dirigiendo la atención hacia él.</p>
                         </div>
                     </div>
 
@@ -133,7 +133,7 @@
 
                         <div class="texto-principio">
                             <h3>Líneas convergentes</h3>
-                            <p>Las líneas convergentes conducen la mirada hacia un punto de interés, generando profundidad y ayudando a capturar la atención del espectador.</p>
+                            <p>Conducen la mirada hacia el centro del encuadre, ayudando a captar la atención.</p>
                         </div>
                     </div>
 
@@ -142,7 +142,7 @@
 
                         <div class="texto-principio">
                             <h3>Contraste</h3>
-                            <p>El grado de diferencia entre los elementos permite generar énfasis en la imagen.</p>
+                            <p>Grado de diferencia entre los elementos que forman una imagen.</p>
                         </div>
                     </div>
 
@@ -151,7 +151,7 @@
 
                         <div class="texto-principio">
                             <h3>Líneas verticales</h3>
-                            <p>Las líneas verticales transmiten estabilidad y fuerza.</p>
+                            <p>Transmiten gravedad o elevación. También muestran repetición mediante patrones.</p>
                         </div>
                     </div>
 
@@ -160,7 +160,7 @@
 
                         <div class="texto-principio">
                             <h3>Líneas horizontales</h3>
-                            <p>Las líneas horizontales generan sensación de calma y estabilidad.</p>
+                            <p>Expresan estabilidad. El equilibrio proviene de su asociación con el horizonte.</p>
                         </div>
                     </div>
 
@@ -169,7 +169,7 @@
 
                         <div class="texto-principio">
                             <h3>Encuadre</h3>
-                            <p>Utilizar elementos de la escena para crear un marco dentro del propio marco ayuda a resaltar al protagonista del sujeto.</p>
+                            <p>Utilizar elementos de la escena para crear un marco dentro de otro marco.</p>
                         </div>
                     </div>
 
@@ -178,7 +178,7 @@
 
                         <div class="texto-principio">
                             <h3>Yuxtaposición</h3>
-                            <p>Consiste en colocar elementos uno al lado del otro para crear relaciones o contrastes visuales.</p>
+                            <p>Dos elementos colocados cerca para compararlos o contrastarlos.</p>
                         </div>
                     </div>
                 </div>

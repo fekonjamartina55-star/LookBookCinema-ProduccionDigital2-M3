@@ -74,22 +74,22 @@
                 <div class="galeria-colores">
                     <div class="color">
                         <div class="muestra-color rojo"></div>
-                        <p> Pasión. Deseo. Peligro. Rebeldía. Obsesión. El rojo rara vez pasa desapercibido. Cuando aparece, suele indicar que algo importante está por suceder.</p>
+                        <p>Pasión, deseo, peligro, rebeldía, obsesión. El rojo rara vez pasa desapercibido. Cuando aparece, suele indicar que algo importante está por suceder.</p>
                     </div>
 
                     <div class="color">
                         <div class="muestra-color naranja"></div>
-                        <p>Calidez. Optimismo. Seguridad o el concepto de "hogar". A la vez se asocia a menudo con el desiertoo ambientes hostiles.</p>
+                        <p>Calidez, optimismo, seguridad o el concepto de "hogar". A la vez se asocia a menudo con el desierto o ambientes hostiles.</p>
                     </div>
 
                     <div class="color">
                         <div class="muestra-color amarillo"></div>
-                        <p>Esperanza. Energía. Juventud, pero también locura, enfermedad o incomodidad (especialmente en tonos más verdosos o desaturados).</p>
+                        <p>Esperanza, energía, juventud, pero también locura, enfermedad o incomodidad (especialmente en tonos más verdosos o desaturados).</p>
                     </div>
 
                     <div class="color">
                         <div class="muestra-color verde"></div>
-                        <p>Naturaleza. Transformación, pero también toxicidad, envidia, corrupción, peligro sobrenatural o decadencia.</p>
+                        <p>Naturaleza, transformación, pero también toxicidad, envidia, corrupción, peligro sobrenatural o decadencia.</p>
                     </div>
 
                     <div class="color">
@@ -99,12 +99,12 @@
 
                     <div class="color">
                         <div class="muestra-color violeta"></div>
-                        <p> Misterio, fantasía, realeza. Lujo o estados mentales alterados y surrealistas.</p>
+                        <p>Misterio, fantasía, realeza, lujo o estados mentales alterados y surreales.</p>
                     </div>
 
                     <div class="color">
                         <div class="muestra-color rosa"></div>
-                        <p>Feminidad. Romanticismo. Ternura. También utilizado para hablar de identidad y poder femenino.</p>
+                        <p>Feminidad, romanticismo, ternura. También utilizado para hablar de identidad y poder femenino.</p>
                     </div>
 
                     <div class="color">
@@ -119,8 +119,7 @@
                 </div>
             </section>
 
-
-            <!-- Películas cuya paleta destaca -->
+            <!-- Películas con paletas cromáticas destacadas -->
             <section class="peliculas-colores">
                 <div class="galeria-paletas">
                     <div class="pelicula-paleta">

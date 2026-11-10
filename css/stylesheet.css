@@ -1,5 +1,5 @@
 body{
-    /* Márgenes y Relleno de toda la página */
+    /* Márgenes y relleno de toda la página */
     margin: 0;
     padding: 0;
     background-color: #700912;
@@ -22,11 +22,11 @@ body{
 }
 
 .barradebusq1{
-    /* Barra de Búsqueda */
+    /* Barra de búsqueda */
     background-color: #ffffff;
     border-radius: 50rem;
     padding: 0.25rem 0.75rem;
-    max-width: 500px;
+    max-width: 31.25rem;
     width: max-content;
 }
 
@@ -39,18 +39,20 @@ body{
 }
 
 .btnlupa{
+    /* Ícono de lupa */
     border: none;
     color: #000000;
     background-color: transparent;
 }
         
 .iconodeusuario{
-    /* Ícono de Usuario */
+    /* Ícono de usuario */
     display: flex;
     align-items: center;
 }
 
 .user-btn{
+    /* Posible redundancia */
     border: none;
     background: transparent;
     color: #c18d39;
@@ -59,6 +61,7 @@ body{
 }
 
 .img-usuario{
+    /* Imagen de usuario */
     height: 3rem;
     width: auto;
     object-fit: contain;
@@ -92,6 +95,7 @@ body{
 }
 
 h1{
+    /* Header */
     font-family: 'Cinzel';
     color: #700912;
     font-size: 2.2rem;
@@ -108,6 +112,7 @@ h1{
 }
 
 label{
+    /* Formulario */
     font-family: 'Cinzel';
     color: #700912;
     margin-right: 0.9375rem;
@@ -116,6 +121,7 @@ label{
 }
 
 .inputcampos{
+    /* Formulario */
     width: 16.875rem;
     border: none;
     border-radius: 1.25rem;
@@ -135,6 +141,7 @@ label{
 }
 
 input{
+    /* Formulario */
     width: 10.5625rem;
     padding: 0.625rem 0.9375rem;
     border: none;
@@ -167,48 +174,55 @@ main{
 }
 
 .acercade{
+    /* Bajada */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 40px;
-    margin: 0 7% 45px;
+    gap: 2.5rem;
+    margin: 0 7% 2.813rem;
     color: #700912;  
 }
 
 h2{
+    /* Header */
     font-family: 'Cinzel';
     color: #700912;
 }
 
 .acercadetexto{
-    max-width: 500px;
+    /* Bajada */
+    max-width: 31.25rem;
     font-family: 'Times New Roman';
     font-size: 1.1rem;
 }
 
 .galeria-peliculas{
+    /* Galería de 5 películas */
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    gap: 12px;
+    gap: 0.75rem;
 }
 
 .imgpeliculas{
+    /* Formato de afiche en las galerías */
     width: 100%;
     aspect-ratio: 2 / 3;
     object-fit: cover;
 }
 
 .galeria-directores{
+    /* Galería de 6 directores/realizadores */
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    gap: 12px;
+    gap: 0.75rem;
 }
 
 .imgrealizador{
+    /* Formato de imagen en las galerías */
     width: 100%;
     aspect-ratio: 4 / 5;
     object-fit: cover;
-    border-radius: 12px;
+    border-radius: 0.75rem;
 }
 
 .row {
@@ -218,39 +232,45 @@ h2{
 }
 
 .contenedor-pelicula{
+    /* Contenedor con información de película sacada de la base de datos */
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 3rem;
-    max-width: 1000px;
+    max-width: 62.5rem;
     margin: 0 auto;
     padding: 2rem;
 }
 
 .afiche-pelicula img{
-    width: 300px;
+    /* Formato de afiche de película sacada de la base de datos */
+    width: 18.75rem;
     height: auto;
     object-fit: contain;
-    border-radius: 10px;
+    border-radius: 0.625rem;
 }
 
 .datos-pelicula{
-    max-width: 500px;
+    /* Información de la película sacada de la base de datos */
+    max-width: 31.25rem;
     color: #700912;
     font-family: 'Times New Roman';
     font-size: 1.2rem;
 }
 
 .datos-pelicula h1{
+    /* Header */
     margin-bottom: 1.5rem;
 }
 
 .datos-pelicula p{
+    /* Texto */
     margin-bottom: 1rem;
 }
 
+/* Formato de resultado de búsqueda */
 .contenedor-resultados{
-    max-width: 1000px;
+    max-width: 62.5rem;
     margin: 0 auto;
     padding: 2rem;
     color: #700912;
@@ -268,14 +288,14 @@ h2{
     padding: 1rem;
     margin-bottom: 1.5rem;
     background-color: #F0E5D2;
-    border-radius: 10px;
+    border-radius: 0.625rem;
 }
 
 .afiche-resultado img{
-    width: 120px;
-    height: 180px;
+    width: 7.5rem;
+    height: 11.25rem;
     object-fit: cover;
-    border-radius: 8px;
+    border-radius: 0.5rem;
 }
 
 .nombre-resultado a{
@@ -288,7 +308,7 @@ h2{
 
 /* Iluminación */
 .tipos-iluminacion{
-    margin: 50px auto;
+    margin: 3.125rem auto;
     text-align: center;
 }
 
@@ -299,21 +319,21 @@ h2{
     font-size: 1.5rem;
     font-weight: 500;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 0.625rem;
 }
 
 .galeria-tipos{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 28px 50px;
-    max-width: 650px;
+    gap: 1.75rem 3.125rem;
+    max-width: 40.625rem;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 1.25rem;
 }
 
 .galeria-tipos img{
     width: 100%;
-    max-width: 110px;
+    max-width: 6.875rem;
     aspect-ratio: 1 / 1;
     object-fit: cover;
     justify-self: center;
@@ -321,7 +341,7 @@ h2{
 
 /* Composición */
 .principios-composicion{
-    margin: 45px auto;
+    margin: 2.813rem auto;
 }
 
 .principios-composicion h2,
@@ -332,21 +352,21 @@ h2{
     font-size: 1.5rem;
     font-weight: 500;
     text-align: center;
-    margin-bottom: 25px;
+    margin-bottom: 1.563rem;
 }
 
 .galeria-principios{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 12px;
-    max-width: 1100px;
+    gap: 0.75rem;
+    max-width: 68.75rem;
     margin: 0 auto;
 }
 
 .principio{
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 0.625rem;
 }
 
 .principio img{
@@ -367,7 +387,7 @@ h2{
     color: #700912;
     font-size: 0.75rem;
     font-weight: 500;
-    margin-bottom: 5px;
+    margin-bottom: 0.313rem;
 }
 
 .texto-principio p{
@@ -376,25 +396,25 @@ h2{
 
 /* Tipos de planos */
 .tipos-planos {
-    margin: 50px auto 65px;
+    margin: 3.125rem auto 4.063rem;
     text-align: center;
 }
 
 .tipos-planos h2 {
-    margin-bottom: 10px;
+    margin-bottom: 0.625rem;
 }
 
 .galeria-planos {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 28px 6px;
-    max-width: 1000px;
+    gap: 1.75rem 0.375rem;
+    max-width: 62.5rem;
     margin: 0 auto;
 }
 
 .plano img {
     width: 100%;
-    height: 130px;
+    height: 8.125rem;
     object-fit: cover;
 }
 
@@ -407,34 +427,33 @@ h2{
     text-transform: capitalize;
 }
 
-
 /* Tipos de ángulos */
 .tipos-angulos {
-    margin: 65px auto;
+    margin: 4.063rem auto;
 }
 
 .tipos-angulos h2 {
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 0.625rem;
 }
 
 .galeria-angulos {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 12px 35px;
-    max-width: 850px;
+    gap: 0.75rem 2.188rem;
+    max-width: 53.125rem;
     margin: 0 auto;
 }
 
 .angulo {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 0.625rem;
 }
 
 .angulo img {
     width: 65%;
-    height: 95px;
+    height: 5.938rem;
     object-fit: cover;
 }
 
@@ -449,28 +468,27 @@ h2{
     text-align: left;
 }
 
-/* COLORES Y SIGNIFICADOS */
-
+/* Colores y sus significados */
 .colores-significados {
-    max-width: 950px;
-    margin: 35px auto 40px;
+    max-width: 59.375rem;
+    margin: 2.188rem auto 2.5rem;
 }
 
 .galeria-colores {
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 1.563rem;
 }
 
 .color {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 1.25rem;
 }
 
 .muestra-color {
     width: 40%;
-    height: 70px;
+    height: 4.375rem;
     flex-shrink: 0;
 }
 
@@ -484,9 +502,7 @@ h2{
     line-height: 1.4;
 }
 
-
-/* MUESTRAS DE COLORES */
-
+/* Muestras de colores */
 .rojo {
     background-color: #C90909;
 }
@@ -496,7 +512,7 @@ h2{
 }
 
 .amarillo {
-    background-color: #F0EC70;
+    background-color: #f0ea3d;
 }
 
 .verde {
@@ -523,18 +539,17 @@ h2{
     background-color: #000000;
 }
 
-/* PALETAS CINEMATOGRÁFICAS */
-
+/* Paletas cinematográficas */
 .peliculas-colores .titulo-paletas {
-    margin-top: 38px;
-    margin-bottom: 12px;
+    margin-top: 2.375rem;
+    margin-bottom: 0.75rem;
 }
 
 .galeria-paletas {
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    max-width: 850px;
+    gap: 0.625rem;
+    max-width: 53.125rem;
     margin: 0 auto;
 }
 
@@ -542,21 +557,21 @@ h2{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 30px;
+    gap: 1.875rem;
 }
 
 .pelicula-paleta img {
     width: 35%;
-    height: 80px;
+    height: 5rem;
     object-fit: cover;
 }
 
 .paleta {
     display: flex;
     width: 55%;
-    height: 40px;
-    border: 1px solid #9C9283;
-    border-radius: 2px;
+    height: 2.5rem;
+    border: 0.063rem solid #9C9283;
+    border-radius: 0.125rem;
     overflow: hidden;
 }
 

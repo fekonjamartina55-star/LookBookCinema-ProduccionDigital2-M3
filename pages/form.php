@@ -84,6 +84,7 @@
                         <input type="text" id="pais" name="pais" placeholder="Argentina" required class="inputcampos">
                     </div>
 
+                    <!-- Botones de enviar y restablecer -->
                     <div class="botonesdelform">
                         <input type="submit">
                         <input type="reset">

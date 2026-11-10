@@ -75,48 +75,48 @@
 
                 <div class="galeria-planos">
                     <div class="plano">
-                        <img src="../img/" alt="Extreme close up">
-                        <h3>Extreme close up</h3>
+                        <img src="../img/" alt="Plano detalle">
+                        <h3>Plano detalle</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Close up">
-                        <h3>Close up</h3>
+                        <img src="../img/" alt="Primer plano">
+                        <h3>Primer plano</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Medium shot">
-                        <h3>Medium shot</h3>
+                        <img src="../img/" alt="Plano medio">
+                        <h3>Plano medio</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Full shot">
-                        <h3>Full shot</h3>
+                        <img src="../img/" alt="Plano entero">
+                        <h3>Plano entero</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Wide shot">
-                        <h3>Wide shot</h3>
+                        <img src="../img/" alt="Plano general">
+                        <h3>Plano general</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Extreme wide shot">
-                        <h3>Extreme wide shot</h3>
+                        <img src="../img/" alt="Plano general extremo">
+                        <h3>Plano general extremo</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Cowboy shot">
-                        <h3>Cowboy shot</h3>
+                        <img src="../img/" alt="Plano americano">
+                        <h3>Plano americano</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Establishing shot">
-                        <h3>Establishing shot</h3>
+                        <img src="../img/" alt="Plano de establecimiento">
+                        <h3>Plano de establecimiento</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Over the shoulder">
-                        <h3>Over the shoulder</h3>
+                        <img src="../img/" alt="Plano escorzo">
+                        <h3>Plano escorzo</h3>
                     </div>
                 </div>
             </section>
@@ -127,58 +127,58 @@
 
                 <div class="galeria-angulos">
                     <div class="angulo">
-                        <img src="../img/" alt="Eye level">
-                        <h3>Eye level</h3>
+                        <img src="../img/" alt="Ángulo normal">
+                        <h3>Ángulo normal</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Ground level">
-                        <h3>Ground level</h3>
+                        <img src="../img/" alt="Ras de suelo">
+                        <h3>Ras de suelo</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Low angle">
-                        <h3>Low angle</h3>
+                        <img src="../img/" alt="Contrapicado">
+                        <h3>Contrapicado</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Shoulder level">
-                        <h3>Shoulder level</h3>
+                        <img src="../img/" alt="Altura del hombro">
+                        <h3>Altura del hombro</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="High level">
-                        <h3>High level</h3>
+                        <img src="../img/" alt="Plano picado">
+                        <h3>Plano picado</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Dutch level">
-                        <h3>Dutch level</h3>
+                        <img src="../img/" alt="Plano inclinado">
+                        <h3>Plano inclinado</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Hip level">
-                        <h3>Hip level</h3>
+                        <img src="../img/" alt="Al nivel de cadera">
+                        <h3>Al nivel de cadera</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Overhead">
-                        <h3>Overhead</h3>
+                        <img src="../img/" alt="Cenital">
+                        <h3>Cenital</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Knee level">
-                        <h3>Knee level</h3>
+                        <img src="../img/" alt="Al nivel de rodilla">
+                        <h3>Al nivel de rodilla</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Aerial">
-                        <h3>Aerial</h3>
+                        <img src="../img/" alt="Plano aéreo">
+                        <h3>Plano aéreo</h3>
                     </div>
                 </div>
             </section>
 
-            <!-- Películas destacadas -->
+            <!-- Películas destacadas por sus planos -->
             <section class="peliculas-planos">
                 <h2>Películas que usan los planos de forma excepcional</h2>
 
