@@ -26,10 +26,10 @@ El proyecto está dividido en index.php y en 3 carpetas:
 
         - «conexion.php» --> Establece conexión con la base de datos.
 
-        - «detalle.php» --> Página que muestra el perfil de cada película.
+        - «detalle.php» --> Página que muestra el perfil de cada película (sacando los datos de la tabla «peliculas»).
 
         - «form.php» --> Muestra un formulario de inicio de sesión.
 
-        - «recibebusq.php» --> Recibe la información del formulario de búsqueda.
+        - «recibebusq.php» --> Recibe la información del formulario de búsqueda y muestra los resultados.
 
         - «recibeform.php» --> Recibe la información del formulario de inicio de sesión.
