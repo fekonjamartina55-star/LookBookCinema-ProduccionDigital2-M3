@@ -71,28 +71,28 @@
 
             <!-- Diseñadores de vestuario destacados -->
             <section>
-                    <h2>Películas con un gran vestuario</h2>
+                <h2>Películas con un gran vestuario</h2>
 
                 <div class="galeria-peliculas">
-                    <img class="imgpeliculas" src="./img/.jpeg" alt="">
-                    <img class="imgpeliculas" src="./img/.jpeg" alt="">
-                    <img class="imgpeliculas" src="./img/.jpeg" alt="">
-                    <img class="imgpeliculas" src="./img/.jpeg" alt="">
-                    <img class="imgpeliculas" src="./img/.jpeg" alt="">
+                    <img class="imgpeliculas" src="../img/cleopatra - afiche.jpeg" alt="Cleopatra">
+                    <img class="imgpeliculas" src="../img/marieantoinette - afiche.jpeg" alt="Marie Antoniette">
+                    <img class="imgpeliculas" src="../img/cruela - afiche.jpeg" alt="Cruella">
+                    <img class="imgpeliculas" src="../img/barbie - afiche.jpeg" alt="Barbie">
+                    <img class="imgpeliculas" src="../img/breakfastattiffanys - afiche.jpeg" alt="Breakfast at Tiffany's">
                 </div>
             </section>
 
             <!-- Películas destacadas por su vestuario -->
             <section>
-                <h2 class="mt-10">Vestuaristas revolucionarias</h2>
+                <h2 class="mt-10">Vestuaristas revolucionarios</h2>
 
                 <div class="galeria-directores">
-                    <img class="imgrealizador" src="./img/.jpeg" alt="">
-                    <img class="imgrealizador" src="./img/.jpeg" alt="">
-                    <img class="imgrealizador" src="./img/.jpeg" alt="">
-                    <img class="imgrealizador" src="./img/.jpeg" alt="">
-                    <img class="imgrealizador" src="./img/.jpeg" alt="">
-                    <img class="imgrealizador" src="./img/.jpeg" alt="">
+                    <img class="imgrealizador" src="../img/atwood.jpeg" alt="">
+                    <img class="imgrealizador" src="../img/head.jpeg" alt="">
+                    <img class="imgrealizador" src="../img/canonero.jpeg" alt="">
+                    <img class="imgrealizador" src="../img/carter.jpeg" alt="">
+                    <img class="imgrealizador" src="../img/powell.jpeg" alt="">
+                    <img class="imgrealizador" src="../img/adrian.jpg" alt="">
                 </div>
             </section>
         </main>

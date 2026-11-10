@@ -33,3 +33,9 @@ El proyecto está dividido en index.php y en 3 carpetas:
         - «recibebusq.php» --> Recibe la información del formulario de búsqueda y muestra los resultados.
 
         - «recibeform.php» --> Recibe la información del formulario de inicio de sesión.
+
+        - «» -->
+
+        - «» -->
+
+        - «» -->

@@ -84,7 +84,7 @@
 
             <!-- Directores destacados -->
             <section>
-                <h2 class="mt-10">Directores revolucionarios</h2>
+                <h2 class="mt-10">Directores destacados</h2>
 
                 <div class="galeria-directores">
                     <img class="imgrealizador" src="./img/spielberg.jpeg" alt="Steven Spielberg">
