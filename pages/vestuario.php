@@ -66,7 +66,7 @@
                     <p>El vestuario revela la personalidad, estética y la evolución de los personajes. Explorá los diseños que marcaron el cine.</p>
                 </div>
 
-                <img src="./img/.png" alt="Vestuario" width="250px" height="auto">
+                <img src="../img/vestuarioportada.png" alt="Vestuario" width="250px" height="auto">
             </section>
 
             <!-- Películas destacadas por su vestuario -->

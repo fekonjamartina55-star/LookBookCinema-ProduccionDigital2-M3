@@ -66,7 +66,7 @@
                     <p>Los planos definen la distancia entre la cámara y el sujeto, ayudando a construir la emoción, la tensión y la forma de contar una escena.</p>
                 </div>
 
-                <img src="../img/" alt="Planos" width="250px" height="auto">
+                <img src="../img/planosportada.png" alt="Planos" width="250px" height="auto">
             </section>
 
             <!-- Tipos de planos -->

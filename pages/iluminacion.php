@@ -66,7 +66,7 @@
                     <p>La iluminación define el estado de ánimo, la profundidad y la narrativa de una escena. Explorá las técnicas utilizadas por los directores para dar vida a sus historias.</p>
                 </div>
 
-                <img src="../img/" alt="Iluminación" width="250px" height="auto">
+                <img src="../img/iluminacionportada.png" alt="Iluminación" width="250px" height="auto">
             </section>
 
             <!-- Tipos de iluminación -->

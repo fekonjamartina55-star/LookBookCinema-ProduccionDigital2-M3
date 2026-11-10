@@ -66,7 +66,7 @@
                     <p>La composición organiza los elementos dentro del encuadre para guiar la mirada del espectador y transmitir significado.</p>
                 </div>
 
-                <img src="../img/" alt="Composición" width="250px" height="auto">
+                <img src="../img/composicionportada.png" alt="Composición" width="250px" height="auto">
             </section>
 
             <!-- Principios de la composición -->

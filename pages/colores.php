@@ -66,7 +66,7 @@
                     <p> El color comunica emociones, simboliza ideas y construye atmósferas. Descubrí cómo se usan las paletas para contar historias inolvidables.</p>
                 </div>
 
-                <img src="../img/" alt="Rueda cromática" width="250px" height="auto">
+                <img src="../img/paletacromatica.png" alt="Paleta cromática" width="250px" height="auto">
             </section>
 
             <!-- Colores y su explicación -->
@@ -123,7 +123,7 @@
             <section class="peliculas-colores">
                 <div class="galeria-paletas">
                     <div class="pelicula-paleta">
-                        <img src="../img/" alt="">
+                        <img src="../img/thegrandbudapesthotel - afiche.jpeg" alt="The Grand Budapest Hotel">
 
                         <div class="paleta">
                             <span style="background-color: #F2B1C5;"></span>
@@ -135,7 +135,7 @@
                     </div>
 
                     <div class="pelicula-paleta">
-                        <img src="../img/" alt="">
+                        <img src="../img/lalaland - afiche.jpeg" alt="La La Land">
 
                         <div class="paleta">
                             <span style="background-color: #315AA2;"></span>
@@ -147,7 +147,7 @@
                     </div>
 
                     <div class="pelicula-paleta">
-                        <img src="../img/" alt="">
+                        <img src="../img/drive - afiche.jpeg" alt="Drive">
 
                         <div class="paleta">
                             <span style="background-color: #F746A1;"></span>
