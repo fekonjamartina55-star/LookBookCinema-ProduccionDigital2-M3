@@ -87,12 +87,12 @@
                 <h2 class="mt-10">Vestuaristas revolucionarios</h2>
 
                 <div class="galeria-directores">
-                    <img class="imgrealizador" src="../img/atwood.jpeg" alt="">
-                    <img class="imgrealizador" src="../img/head.jpeg" alt="">
-                    <img class="imgrealizador" src="../img/canonero.jpeg" alt="">
-                    <img class="imgrealizador" src="../img/carter.jpeg" alt="">
-                    <img class="imgrealizador" src="../img/powell.jpeg" alt="">
-                    <img class="imgrealizador" src="../img/adrian.jpg" alt="">
+                    <img class="imgrealizador" src="../img/atwood.jpeg" alt="Atwood">
+                    <img class="imgrealizador" src="../img/head.jpeg" alt="Head">
+                    <img class="imgrealizador" src="../img/canonero.jpeg" alt="Canonero">
+                    <img class="imgrealizador" src="../img/carter.jpeg" alt="Carter">
+                    <img class="imgrealizador" src="../img/powell.jpeg" alt="Powell">
+                    <img class="imgrealizador" src="../img/adrian.jpg" alt="Adrian">
                 </div>
             </section>
         </main>
