@@ -285,3 +285,37 @@ h2{
     color: #700912;
     text-decoration: none;
 }
+
+/* Iluminación */
+
+.tipos-iluminacion{
+    margin: 50px auto;
+    text-align: center;
+}
+
+.tipos-iluminacion h2,
+.peliculas-iluminacion h2{
+    font-family: 'Cinzel';
+    color: #700912;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.galeria-tipos{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px 50px;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.galeria-tipos img{
+    width: 100%;
+    max-width: 110px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    justify-self: center;
+}

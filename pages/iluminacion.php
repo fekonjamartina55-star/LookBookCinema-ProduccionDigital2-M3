@@ -66,20 +66,36 @@
                     <p>La iluminación define el estado de ánimo, la profundidad y la narrativa de una escena. Explorá las técnicas utilizadas por los directores para dar vida a sus historias.</p>
                 </div>
 
-                <img src="./img/.png" alt="Iluminación" width="250px" height="auto">
+                <img src="../img/" alt="Iluminación" width="250px" height="auto">
             </section>
 
             <!-- Tipos de iluminación -->
-            <section>
-                <div>
+            <section class="tipos-iluminacion">
+                <h2>Tipos de iluminación</h2>
 
+                <div class="galeria-tipos">
+                    <img src="../img/" alt="Tipo de iluminación 1">
+                    <img src="../img/" alt="Tipo de iluminación 2">
+                    <img src="../img/" alt="Tipo de iluminación 3">
+                    <img src="../img/" alt="Tipo de iluminación 4">
+                    <img src="../img/" alt="Tipo de iluminación 5">
+                    <img src="../img/" alt="Tipo de iluminación 6">
+                    <img src="../img/" alt="Tipo de iluminación 7">
+                    <img src="../img/" alt="Tipo de iluminación 8">
+                    <img src="../img/" alt="Tipo de iluminación 9">
                 </div>
             </section>
 
             <!-- Películas destacadas por su iluminación -->
-            <section>
-                <div>
-                    
+            <section class="peliculas-iluminacion">
+                <h2>Películas con iluminación revolucionaria</h2>
+
+                <div class="galeria-peliculas">
+                    <img class="imgpeliculas" src="../img/" alt="">
+                    <img class="imgpeliculas" src="../img/" alt="">
+                    <img class="imgpeliculas" src="../img/" alt="">
+                    <img class="imgpeliculas" src="../img/" alt="">
+                    <img class="imgpeliculas" src="../img/" alt="">
                 </div>
             </section>
         </main>
