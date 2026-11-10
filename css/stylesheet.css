@@ -51,15 +51,6 @@ body{
     align-items: center;
 }
 
-.user-btn{
-    /* Posible redundancia */
-    border: none;
-    background: transparent;
-    color: #c18d39;
-    padding: 0.25rem 0.5rem;
-    padding-right: 0.945rem;
-}
-
 .img-usuario{
     /* Imagen de usuario */
     height: 3rem;
@@ -379,13 +370,13 @@ h2{
     width: 60%;
     font-family: 'Times New Roman';
     color: #000000;
-    font-size: 0.75rem;
+    font-size: 0.875rem;
 }
 
 .texto-principio h3{
     font-family: 'Cinzel';
     color: #700912;
-    font-size: 0.75rem;
+    font-size: 1.1rem;
     font-weight: 500;
     margin-bottom: 0.313rem;
 }
@@ -401,6 +392,7 @@ h2{
 }
 
 .tipos-planos h2 {
+    font-size: 1.5rem;
     margin-bottom: 0.625rem;
 }
 
@@ -422,7 +414,7 @@ h2{
     font-family: 'Cinzel';
     color: #000000;
     font-size: 1.1rem;
-    font-weight: 400;
+    font-weight: 500;
     margin: 0;
     text-transform: capitalize;
 }
@@ -435,6 +427,7 @@ h2{
 .tipos-angulos h2 {
     text-align: center;
     margin-bottom: 0.625rem;
+    font-size: 1.5rem;
 }
 
 .galeria-angulos {
@@ -462,7 +455,7 @@ h2{
     font-family: 'Cinzel';
     color: #000000;
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 500;
     margin: 0;
     text-transform: capitalize;
     text-align: left;
@@ -498,7 +491,7 @@ h2{
     font-family: 'Cinzel';
     color: #000000;
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 1.4;
 }
 
