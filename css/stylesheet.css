@@ -373,3 +373,78 @@ h2{
 .texto-principio p{
     margin: 0;
 }
+
+/* Tipos de planos */
+.tipos-planos {
+    margin: 50px auto 65px;
+    text-align: center;
+}
+
+.tipos-planos h2 {
+    margin-bottom: 10px;
+}
+
+.galeria-planos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px 6px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.plano img {
+    width: 100%;
+    height: 130px;
+    object-fit: cover;
+}
+
+.plano h3 {
+    font-family: 'Cinzel';
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 0;
+    text-transform: capitalize;
+}
+
+
+/* Tipos de ángulos */
+.tipos-angulos {
+    margin: 65px auto;
+}
+
+.tipos-angulos h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.galeria-angulos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px 35px;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.angulo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.angulo img {
+    width: 65%;
+    height: 95px;
+    object-fit: cover;
+}
+
+.angulo h3 {
+    width: 35%;
+    font-family: 'Cinzel';
+    color: #000000;
+    font-size: 0.75rem;
+    font-weight: 400;
+    margin: 0;
+    text-transform: capitalize;
+    text-align: left;
+}

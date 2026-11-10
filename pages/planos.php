@@ -66,27 +66,128 @@
                     <p>Los planos definen la distancia entre la cámara y el sujeto, ayudando a construir la emoción, la tensión y la forma de contar una escena.</p>
                 </div>
 
-                <img src="./img/.png" alt="planos" width="250px" height="auto">
+                <img src="../img/" alt="Planos" width="250px" height="auto">
             </section>
 
             <!-- Tipos de planos -->
-            <section>
-                <div>
+            <section class="tipos-planos">
+                <h2>Tipos de planos</h2>
 
+                <div class="galeria-planos">
+                    <div class="plano">
+                        <img src="../img/" alt="Extreme close up">
+                        <h3>Extreme close up</h3>
+                    </div>
+
+                    <div class="plano">
+                        <img src="../img/" alt="Close up">
+                        <h3>Close up</h3>
+                    </div>
+
+                    <div class="plano">
+                        <img src="../img/" alt="Medium shot">
+                        <h3>Medium shot</h3>
+                    </div>
+
+                    <div class="plano">
+                        <img src="../img/" alt="Full shot">
+                        <h3>Full shot</h3>
+                    </div>
+
+                    <div class="plano">
+                        <img src="../img/" alt="Wide shot">
+                        <h3>Wide shot</h3>
+                    </div>
+
+                    <div class="plano">
+                        <img src="../img/" alt="Extreme wide shot">
+                        <h3>Extreme wide shot</h3>
+                    </div>
+
+                    <div class="plano">
+                        <img src="../img/" alt="Cowboy shot">
+                        <h3>Cowboy shot</h3>
+                    </div>
+
+                    <div class="plano">
+                        <img src="../img/" alt="Establishing shot">
+                        <h3>Establishing shot</h3>
+                    </div>
+
+                    <div class="plano">
+                        <img src="../img/" alt="Over the shoulder">
+                        <h3>Over the shoulder</h3>
+                    </div>
                 </div>
             </section>
 
             <!-- Tipos de ángulos -->
-            <section>
-                <div>
-                    
+            <section class="tipos-angulos">
+                <h2>Ángulos</h2>
+
+                <div class="galeria-angulos">
+                    <div class="angulo">
+                        <img src="../img/" alt="Eye level">
+                        <h3>Eye level</h3>
+                    </div>
+
+                    <div class="angulo">
+                        <img src="../img/" alt="Ground level">
+                        <h3>Ground level</h3>
+                    </div>
+
+                    <div class="angulo">
+                        <img src="../img/" alt="Low angle">
+                        <h3>Low angle</h3>
+                    </div>
+
+                    <div class="angulo">
+                        <img src="../img/" alt="Shoulder level">
+                        <h3>Shoulder level</h3>
+                    </div>
+
+                    <div class="angulo">
+                        <img src="../img/" alt="High level">
+                        <h3>High level</h3>
+                    </div>
+
+                    <div class="angulo">
+                        <img src="../img/" alt="Dutch level">
+                        <h3>Dutch level</h3>
+                    </div>
+
+                    <div class="angulo">
+                        <img src="../img/" alt="Hip level">
+                        <h3>Hip level</h3>
+                    </div>
+
+                    <div class="angulo">
+                        <img src="../img/" alt="Overhead">
+                        <h3>Overhead</h3>
+                    </div>
+
+                    <div class="angulo">
+                        <img src="../img/" alt="Knee level">
+                        <h3>Knee level</h3>
+                    </div>
+
+                    <div class="angulo">
+                        <img src="../img/" alt="Aerial">
+                        <h3>Aerial</h3>
+                    </div>
                 </div>
             </section>
 
-            <!-- Películas destacadas por su uso de planos y ángulos -->
-            <section>
-                <div>
-                    
+            <!-- Películas destacadas -->
+            <section class="peliculas-planos">
+                <h2>Películas que usan los planos de forma excepcional</h2>
+
+                <div class="galeria-peliculas">
+                    <img class="imgpeliculas" src="../img/" alt="">
+                    <img class="imgpeliculas" src="../img/" alt="">
+                    <img class="imgpeliculas" src="../img/" alt="">
+                    <img class="imgpeliculas" src="../img/" alt="">
+                    <img class="imgpeliculas" src="../img/" alt="">
                 </div>
             </section>
         </main>
