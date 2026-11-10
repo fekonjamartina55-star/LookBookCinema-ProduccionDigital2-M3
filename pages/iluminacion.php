@@ -87,7 +87,7 @@
             </section>
 
             <!-- Películas destacadas por su iluminación -->
-            <section class="peliculas-iluminacion">
+            <section>
                 <h2>Películas con iluminación revolucionaria</h2>
 
                 <div class="galeria-peliculas">

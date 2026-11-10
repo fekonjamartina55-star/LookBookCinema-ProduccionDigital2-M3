@@ -179,7 +179,7 @@
             </section>
 
             <!-- Películas destacadas por sus planos -->
-            <section class="peliculas-planos">
+            <section>
                 <h2>Películas que usan los planos de forma excepcional</h2>
 
                 <div class="galeria-peliculas">

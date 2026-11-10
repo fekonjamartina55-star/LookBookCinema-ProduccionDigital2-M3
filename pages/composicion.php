@@ -185,8 +185,8 @@
             </section>
 
             <!-- Directores destacados por su composición -->
-            <section class="directores-composicion">
-                <h2>Directores maestros de la composición</h2>
+            <section>
+                <h2 class="mt-10">Directores maestros de la composición</h2>
 
                 <div class="galeria-directores">
                     <img class="imgrealizador" src="../img/kubrick.jpeg" alt="Director 1">
