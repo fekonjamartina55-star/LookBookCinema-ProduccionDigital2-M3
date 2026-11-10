@@ -75,7 +75,7 @@
 
                 <div class="galeria-principios">
                     <div class="principio">
-                        <img src="../img/" alt="Regla de los tercios">
+                        <img src="../img/composicion1.png" alt="Regla de los tercios">
 
                         <div class="texto-principio">
                             <h3>Regla de los tercios</h3>
@@ -84,7 +84,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Simetría">
+                        <img src="../img/composicion5.png" alt="Simetría">
 
                         <div class="texto-principio">
                             <h3>Simetría</h3>
@@ -93,7 +93,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Espiral de Fibonacci">
+                        <img src="../img/composicion2.png" alt="Espiral de Fibonacci">
 
                         <div class="texto-principio">
                             <h3>Espiral de Fibonacci</h3>
@@ -102,7 +102,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Asimetría">
+                        <img src="../img/composicion8.png" alt="Asimetría">
 
                         <div class="texto-principio">
                             <h3>Asimetría</h3>
@@ -111,7 +111,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Triángulos">
+                        <img src="../img/composicion3.png" alt="Triángulos">
 
                         <div class="texto-principio">
                             <h3>Triángulos</h3>
@@ -120,7 +120,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Espacio negativo">
+                        <img src="../img/composicion12.png" alt="Espacio negativo">
 
                         <div class="texto-principio">
                             <h3>Espacio negativo</h3>
@@ -129,7 +129,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Líneas convergentes">
+                        <img src="../img/composicion6.png" alt="Líneas convergentes">
 
                         <div class="texto-principio">
                             <h3>Líneas convergentes</h3>
@@ -138,7 +138,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Contraste">
+                        <img src="../img/composicion9.png" alt="Contraste">
 
                         <div class="texto-principio">
                             <h3>Contraste</h3>
@@ -147,7 +147,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Líneas verticales">
+                        <img src="../img/composicion4.png" alt="Líneas verticales">
 
                         <div class="texto-principio">
                             <h3>Líneas verticales</h3>
@@ -156,7 +156,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Líneas horizontales">
+                        <img src="../img/composicion7.png" alt="Líneas horizontales">
 
                         <div class="texto-principio">
                             <h3>Líneas horizontales</h3>
@@ -165,7 +165,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Encuadre">
+                        <img src="../img/composicion11.png" alt="Encuadre">
 
                         <div class="texto-principio">
                             <h3>Encuadre</h3>
@@ -174,7 +174,7 @@
                     </div>
 
                     <div class="principio">
-                        <img src="../img/" alt="Yuxtaposición">
+                        <img src="../img/composicion10.png" alt="Yuxtaposición">
 
                         <div class="texto-principio">
                             <h3>Yuxtaposición</h3>
@@ -189,12 +189,12 @@
                 <h2>Directores maestros de la composición</h2>
 
                 <div class="galeria-directores">
-                    <img class="imgrealizador" src="../img/" alt="Director 1">
-                    <img class="imgrealizador" src="../img/" alt="Director 2">
-                    <img class="imgrealizador" src="../img/" alt="Director 3">
-                    <img class="imgrealizador" src="../img/" alt="Director 4">
-                    <img class="imgrealizador" src="../img/" alt="Director 5">
-                    <img class="imgrealizador" src="../img/" alt="Director 6">
+                    <img class="imgrealizador" src="../img/kubrick.jpeg" alt="Director 1">
+                    <img class="imgrealizador" src="../img/anderson.png" alt="Director 2">
+                    <img class="imgrealizador" src="../img/kurosawa.jpeg" alt="Director 3">
+                    <img class="imgrealizador" src="../img/villeneuve.jpeg" alt="Director 4">
+                    <img class="imgrealizador" src="../img/tarkovsky.jpeg" alt="Director 5">
+                    <img class="imgrealizador" src="../img/leone.jpeg" alt="Director 6">
                 </div>
             </section>
         </main>

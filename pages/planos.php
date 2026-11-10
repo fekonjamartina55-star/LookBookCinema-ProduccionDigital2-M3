@@ -75,47 +75,47 @@
 
                 <div class="galeria-planos">
                     <div class="plano">
-                        <img src="../img/" alt="Plano detalle">
+                        <img src="../img/plano1.png" alt="Plano detalle">
                         <h3>Plano detalle</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Primer plano">
+                        <img src="../img/plano2.png" alt="Primer plano">
                         <h3>Primer plano</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Plano medio">
+                        <img src="../img/plano9.jpg" alt="Plano medio">
                         <h3>Plano medio</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Plano entero">
+                        <img src="../img/plano3.png" alt="Plano entero">
                         <h3>Plano entero</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Plano general">
+                        <img src="../img/plano4.jpeg" alt="Plano general">
                         <h3>Plano general</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Plano general extremo">
+                        <img src="../img/plano5.jpeg" alt="Plano general extremo">
                         <h3>Plano general extremo</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Plano americano">
+                        <img src="../img/plano6.jpeg" alt="Plano americano">
                         <h3>Plano americano</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Plano de establecimiento">
+                        <img src="../img/plano7.jpeg" alt="Plano de establecimiento">
                         <h3>Plano de establecimiento</h3>
                     </div>
 
                     <div class="plano">
-                        <img src="../img/" alt="Plano escorzo">
+                        <img src="../img/plano8.jpeg" alt="Plano escorzo">
                         <h3>Plano escorzo</h3>
                     </div>
                 </div>
@@ -127,52 +127,52 @@
 
                 <div class="galeria-angulos">
                     <div class="angulo">
-                        <img src="../img/" alt="Ángulo normal">
+                        <img src="../img/angulo1.png" alt="Ángulo normal">
                         <h3>Ángulo normal</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Ras de suelo">
+                        <img src="../img/angulo6.png" alt="Ras de suelo">
                         <h3>Ras de suelo</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Contrapicado">
+                        <img src="../img/angulo2.png" alt="Contrapicado">
                         <h3>Contrapicado</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Altura del hombro">
+                        <img src="../img/angulo7.png" alt="Altura del hombro">
                         <h3>Altura del hombro</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Plano picado">
+                        <img src="../img/angulo3.jpeg" alt="Plano picado">
                         <h3>Plano picado</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Plano inclinado">
+                        <img src="../img/angulo8.jpeg" alt="Plano inclinado">
                         <h3>Plano inclinado</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Al nivel de cadera">
+                        <img src="../img/angulo4.png" alt="Al nivel de cadera">
                         <h3>Al nivel de cadera</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Cenital">
+                        <img src="../img/angulo9.jpeg" alt="Cenital">
                         <h3>Cenital</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Al nivel de rodilla">
+                        <img src="../img/angulo5.png" alt="Al nivel de rodilla">
                         <h3>Al nivel de rodilla</h3>
                     </div>
 
                     <div class="angulo">
-                        <img src="../img/" alt="Plano aéreo">
+                        <img src="../img/angulo10.jpeg" alt="Plano aéreo">
                         <h3>Plano aéreo</h3>
                     </div>
                 </div>
@@ -183,11 +183,11 @@
                 <h2>Películas que usan los planos de forma excepcional</h2>
 
                 <div class="galeria-peliculas">
-                    <img class="imgpeliculas" src="../img/" alt="">
-                    <img class="imgpeliculas" src="../img/" alt="">
-                    <img class="imgpeliculas" src="../img/" alt="">
-                    <img class="imgpeliculas" src="../img/" alt="">
-                    <img class="imgpeliculas" src="../img/" alt="">
+                    <img class="imgpeliculas" src="../img/bladerunner2049 - afiche.jpeg" alt="Blade Runner 2049">
+                    <img class="imgpeliculas" src="../img/lawrenceofarabia - afiche.jpeg" alt="Lawrence of Arabia">
+                    <img class="imgpeliculas" src="../img/madmaxfuryroad - afiche.jpeg" alt="Mad Max Fury Road">
+                    <img class="imgpeliculas" src="../img/theshining - afiche.jpeg" alt="The Shining">
+                    <img class="imgpeliculas" src="../img/thegoodthebadandtheugly - afiche.jpeg" alt="The Good The Bad and the Ugly">
                 </div>
             </section>
         </main>

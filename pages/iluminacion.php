@@ -74,15 +74,15 @@
                 <h2>Tipos de iluminación</h2>
 
                 <div class="galeria-tipos">
-                    <img src="../img/" alt="Iluminación 1">
-                    <img src="../img/" alt="Iluminación 2">
-                    <img src="../img/" alt="Iluminación 3">
-                    <img src="../img/" alt="Iluminación 4">
-                    <img src="../img/" alt="Iluminación 5">
-                    <img src="../img/" alt="Iluminación 6">
-                    <img src="../img/" alt="Iluminación 7">
-                    <img src="../img/" alt="Iluminación 8">
-                    <img src="../img/" alt="Iluminación 9">
+                    <img src="../img/iluminacion1.png" alt="Iluminación 1">
+                    <img src="../img/iluminacion2.png" alt="Iluminación 2">
+                    <img src="../img/iluminacion3.png" alt="Iluminación 3">
+                    <img src="../img/iluminacion4.png" alt="Iluminación 4">
+                    <img src="../img/iluminacion5.png" alt="Iluminación 5">
+                    <img src="../img/iluminacion6.png" alt="Iluminación 6">
+                    <img src="../img/iluminacion7.png" alt="Iluminación 7">
+                    <img src="../img/iluminacion8.png" alt="Iluminación 8">
+                    <img src="../img/iluminacion9.png" alt="Iluminación 9">
                 </div>
             </section>
 
@@ -91,11 +91,11 @@
                 <h2>Películas con iluminación revolucionaria</h2>
 
                 <div class="galeria-peliculas">
-                    <img class="imgpeliculas" src="../img/" alt="">
-                    <img class="imgpeliculas" src="../img/" alt="">
-                    <img class="imgpeliculas" src="../img/" alt="">
-                    <img class="imgpeliculas" src="../img/" alt="">
-                    <img class="imgpeliculas" src="../img/" alt="">
+                    <img class="imgpeliculas" src="../img/barrylyndon - afiche.jpeg" alt="Barry Lyndon">
+                    <img class="imgpeliculas" src="../img/seven - afiche.jpeg" alt="Seven">
+                    <img class="imgpeliculas" src="../img/thegodfather - afiche.jpeg" alt="The Godfather">
+                    <img class="imgpeliculas" src="../img/apocalypsenow - afiche.jpeg" alt="Apocalypse Now">
+                    <img class="imgpeliculas" src="../img/therevenant - afiche.jpeg" alt="The Revenant">
                 </div>
             </section>
         </main>
