@@ -4,7 +4,7 @@ Autores: Martina Fekonja Casiña (@porft.martinafekonja) y Ezequiel Lopez Mic (@
 
 LookBook Cinema es una página web diseñada para ofrecer a los usuarios información sobre la producción y realización de diversas producciones cinematográficas. La página repasa algunos de los aspectos más importantes de la producción, mostrándolos en las diferentes categorías: colores, composición, iluminación, planos y vestuario. La página también ofrece un perfil de cada producción que funciona como una ficha técnica básica, que muestra: director, año de estreno, género, afiche, sinopsis y la duración.
 
-El proyecto está dividido en index.php y en 3 carpetas.
+El proyecto está dividido en index.php y en 3 carpetas:
 
     - «index.php» --> Archivo que funciona como home de la página. Permite la navegación hacia las demás secciones.
 
