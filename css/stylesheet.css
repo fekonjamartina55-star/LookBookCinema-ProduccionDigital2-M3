@@ -31,6 +31,7 @@ body{
 }
 
 .form-control{
+    /* Formulario */
     border: none;
     background: transparent;
     color: #000000;
@@ -76,6 +77,7 @@ body{
 }
 
 .maindelform{
+    /* Formulario */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -84,6 +86,7 @@ body{
 }
 
 .contenedordelform{
+    /* Formulario */
     width: 100%;
     text-align: center;
 }
@@ -97,6 +100,7 @@ h1{
 }
 
 .campodelform{
+    /* Formulario */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -123,6 +127,7 @@ label{
 }
 
 .botonesdelform{
+    /* Formulario */
     display: flex;
     justify-content: center;
     gap: 1rem;
@@ -148,6 +153,7 @@ input{
 }
 
 .textodefooter{
+    /* Footer */
     font-family: 'Cinzel';
     color: #F0E5D2;
     font-size: 0.9rem;
@@ -155,6 +161,7 @@ input{
 }
 
 main{
+    /* Main */
     background-color: #F0E5D2;
     padding: 2rem;
 }
@@ -205,6 +212,7 @@ h2{
 }
 
 .row {
+    /* Remueve un margen de compensación introducido por Bootstrap */
     margin-left: 0;
     margin-right: 0;
 }
