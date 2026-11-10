@@ -58,6 +58,7 @@
             </nav>      
         </header>
 
+        <!-- Conexión y consulta -->
         <?php
             include("conexion.php");
 
@@ -69,11 +70,14 @@
         ?>
 
         <main>
+            <!-- Contenedor principal -->
             <div class="contenedor-pelicula">
+                <!-- Contenedor de afiche -->
                 <div class="afiche-pelicula">
                     <img src="../img/<?php echo $pelicula['imagen']; ?>" alt="Afiche de película" width="300">
                 </div>
 
+                <!-- Contenedor de datos -->
                 <div class="datos-pelicula">
                     <h1><?php echo $pelicula['nombre']; ?></h1>
                     <p>Director: <?php echo $pelicula['director']; ?></p>

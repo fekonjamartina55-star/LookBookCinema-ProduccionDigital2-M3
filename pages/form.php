@@ -62,6 +62,7 @@
             <div class="contenedordelform">
                 <h1>Iniciar Sesión</h1>
 
+                <!-- Formulario de inicio de sesión -->
                 <form action="recibeform.php" method="post">
                     <div class="campodelform">
                         <label for="usuario">Usuario:</label>

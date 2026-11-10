@@ -69,7 +69,7 @@
                 <img src="./img/.png" alt="vestuario" width="250px" height="auto">
             </section>
 
-            <!-- Diseñadores de vestuario destacados -->
+            <!-- Películas destacadas por su vestuario -->
             <section>
                 <h2>Películas con un gran vestuario</h2>
 
@@ -82,9 +82,9 @@
                 </div>
             </section>
 
-            <!-- Películas destacadas por su vestuario -->
+            <!-- Diseñadores de vestuario destacados -->
             <section>
-                <h2 class="mt-10">Vestuaristas revolucionarios</h2>
+                <h2 class="mt-10">Diseñadores de vestuario revolucionarios</h2>
 
                 <div class="galeria-directores">
                     <img class="imgrealizador" src="../img/atwood.jpeg" alt="Atwood">

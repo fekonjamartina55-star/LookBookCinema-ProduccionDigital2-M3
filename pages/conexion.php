@@ -7,6 +7,7 @@
     </head>
 
     <body>
+        <!-- Conexión con la base de datos -->
         <?php
             $conexion = mysqli_connect("localhost", "root", "", "lookbookcinema");
             if (!$conexion){

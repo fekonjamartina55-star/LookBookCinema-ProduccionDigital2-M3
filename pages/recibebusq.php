@@ -58,6 +58,7 @@
             </nav>      
         </header>
 
+        <!-- Conexión y consulta -->
         <?php
             include("conexion.php");
 
@@ -70,6 +71,7 @@
         ?>
 
         <main>
+            <!-- Contenedor principal de resultados de búsqueda -->
             <div class="contenedor-resultados">
                 <h1>Resultados de la búsqueda</h1>
                 <?php
@@ -79,10 +81,12 @@
                 ?>
 
                 <div class="resultado-pelicula">
+                    <!-- Afiche del resultado de búsqueda -->
                     <div class="afiche-resultado">
                         <img src="../img/<?php echo $fila['imagen']; ?>" alt="Afiche de <?php echo $fila['nombre']; ?>">
                     </div>
 
+                    <!-- Nombre del resultado de búsqueda -->
                     <div class="nombre-resultado">
                         <a href="detalle.php?id=<?php echo $fila['id']; ?>"> <?php echo $fila['nombre']; ?></a>
                     </div>

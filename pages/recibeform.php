@@ -7,6 +7,7 @@
     </head>
 
     <body>
+        <!-- Recibe información del formulario de inicio de sesión -->
         <?php
             $usuario = $_POST['usuario'];
             $mail = $_POST['mail'];
