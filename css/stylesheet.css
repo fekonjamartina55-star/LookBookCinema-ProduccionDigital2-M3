@@ -208,3 +208,72 @@ h2{
     margin-left: 0;
     margin-right: 0;
 }
+
+.contenedor-pelicula{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.afiche-pelicula img{
+    width: 300px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+.datos-pelicula{
+    max-width: 500px;
+    color: #700912;
+    font-family: 'Times New Roman';
+    font-size: 1.2rem;
+}
+
+.datos-pelicula h1{
+    margin-bottom: 1.5rem;
+}
+
+.datos-pelicula p{
+    margin-bottom: 1rem;
+}
+
+.contenedor-resultados{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+    color: #700912;
+}
+
+.contenedor-resultados h1{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.resultado-pelicula{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    background-color: #F0E5D2;
+    border-radius: 10px;
+}
+
+.afiche-resultado img{
+    width: 120px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.nombre-resultado a{
+    font-family: 'Cinzel';
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: #700912;
+    text-decoration: none;
+}
