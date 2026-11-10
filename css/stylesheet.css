@@ -448,3 +448,118 @@ h2{
     text-transform: capitalize;
     text-align: left;
 }
+
+/* COLORES Y SIGNIFICADOS */
+
+.colores-significados {
+    max-width: 950px;
+    margin: 35px auto 40px;
+}
+
+.galeria-colores {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.color {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.muestra-color {
+    width: 40%;
+    height: 70px;
+    flex-shrink: 0;
+}
+
+.color p {
+    width: 60%;
+    margin: 0;
+    font-family: 'Cinzel';
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+}
+
+
+/* MUESTRAS DE COLORES */
+
+.rojo {
+    background-color: #C90909;
+}
+
+.naranja {
+    background-color: #FF963C;
+}
+
+.amarillo {
+    background-color: #F0EC70;
+}
+
+.verde {
+    background-color: #43B509;
+}
+
+.azul {
+    background-color: #1043BD;
+}
+
+.violeta {
+    background-color: #7116B0;
+}
+
+.rosa {
+    background-color: #F34F9A;
+}
+
+.blanco {
+    background-color: #FFFFFF;
+}
+
+.negro {
+    background-color: #000000;
+}
+
+/* PALETAS CINEMATOGRÁFICAS */
+
+.peliculas-colores .titulo-paletas {
+    margin-top: 38px;
+    margin-bottom: 12px;
+}
+
+.galeria-paletas {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.pelicula-paleta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.pelicula-paleta img {
+    width: 35%;
+    height: 80px;
+    object-fit: cover;
+}
+
+.paleta {
+    display: flex;
+    width: 55%;
+    height: 40px;
+    border: 1px solid #9C9283;
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.paleta span {
+    flex: 1;
+}

@@ -63,23 +63,101 @@
             <section class="acercade">
                 <div class="acercadetexto">
                     <h2>Colores</h2>
-                    <p>El color comunica emociones, simboliza ideas y construye atmósferas. Descubrí cómo se usan las paletas para contar historias inolvidables.</p>
+                    <p> El color comunica emociones, simboliza ideas y construye atmósferas. Descubrí cómo se usan las paletas para contar historias inolvidables.</p>
                 </div>
 
-                <img src="./img/.png" alt="colores" width="250px" height="auto">
+                <img src="../img/" alt="Rueda cromática" width="250px" height="auto">
             </section>
 
             <!-- Colores y su explicación -->
-            <section>
-                <div>
+            <section class="colores-significados">
+                <div class="galeria-colores">
+                    <div class="color">
+                        <div class="muestra-color rojo"></div>
+                        <p> Pasión. Deseo. Peligro. Rebeldía. Obsesión. El rojo rara vez pasa desapercibido. Cuando aparece, suele indicar que algo importante está por suceder.</p>
+                    </div>
 
+                    <div class="color">
+                        <div class="muestra-color naranja"></div>
+                        <p>Calidez. Optimismo. Seguridad o el concepto de "hogar". A la vez se asocia a menudo con el desiertoo ambientes hostiles.</p>
+                    </div>
+
+                    <div class="color">
+                        <div class="muestra-color amarillo"></div>
+                        <p>Esperanza. Energía. Juventud, pero también locura, enfermedad o incomodidad (especialmente en tonos más verdosos o desaturados).</p>
+                    </div>
+
+                    <div class="color">
+                        <div class="muestra-color verde"></div>
+                        <p>Naturaleza. Transformación, pero también toxicidad, envidia, corrupción, peligro sobrenatural o decadencia.</p>
+                    </div>
+
+                    <div class="color">
+                        <div class="muestra-color azul"></div>
+                        <p>Melancolía, misterio, introspección, nostalgia o tecnología. Frecuentemente usado en escenas de soledad o mundos futuristas.</p>
+                    </div>
+
+                    <div class="color">
+                        <div class="muestra-color violeta"></div>
+                        <p> Misterio, fantasía, realeza. Lujo o estados mentales alterados y surrealistas.</p>
+                    </div>
+
+                    <div class="color">
+                        <div class="muestra-color rosa"></div>
+                        <p>Feminidad. Romanticismo. Ternura. También utilizado para hablar de identidad y poder femenino.</p>
+                    </div>
+
+                    <div class="color">
+                        <div class="muestra-color blanco"></div>
+                        <p>Pureza, inocencia, vacío o esterilidad. También puede representar una limpieza abrumadora.</p>
+                    </div>
+
+                    <div class="color">
+                        <div class="muestra-color negro"></div>
+                        <p>Poder, desconocido, maldad, elegancia o misterio. Muchos personajes icónicos lo utilizan ya que también transmite presencia.</p>
+                    </div>
                 </div>
             </section>
 
-            <!-- Películas destacadas por su uso de colores -->
-            <section>
-                <div>
 
+            <!-- Películas cuya paleta destaca -->
+            <section class="peliculas-colores">
+                <div class="galeria-paletas">
+                    <div class="pelicula-paleta">
+                        <img src="../img/" alt="">
+
+                        <div class="paleta">
+                            <span style="background-color: #F2B1C5;"></span>
+                            <span style="background-color: #D77C9B;"></span>
+                            <span style="background-color: #D8B45B;"></span>
+                            <span style="background-color: #8D6BAA;"></span>
+                            <span style="background-color: #F0E5D2;"></span>
+                        </div>
+                    </div>
+
+                    <div class="pelicula-paleta">
+                        <img src="../img/" alt="">
+
+                        <div class="paleta">
+                            <span style="background-color: #315AA2;"></span>
+                            <span style="background-color: #FFD343;"></span>
+                            <span style="background-color: #D83D35;"></span>
+                            <span style="background-color: #7945AC;"></span>
+                            <span style="background-color: #49B4B1;"></span>
+                        </div>
+                    </div>
+
+                    <div class="pelicula-paleta">
+                        <img src="../img/" alt="">
+
+                        <div class="paleta">
+                            <span style="background-color: #F746A1;"></span>
+                            <span style="background-color: #C2185B;"></span>
+                            <span style="background-color: #04A9DF;"></span>
+                            <span style="background-color: #19364E;"></span>
+                            <span style="background-color: #D99A38;"></span>
+                        </div>
+                    </div>
                 </div>
             </section>
         </main>
