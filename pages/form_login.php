@@ -81,7 +81,7 @@
                         <input type="reset">
                     </div>
 
-                    <!-- Botones de Cerrar sesión y Registrarse -->
+                    <!-- Botones de Cerrar Sesión y Registrarse -->
                     <div class="botonesdelform">
                         <a href="../pages/form_registro.php" class="btn btn-sm px-3 py-2">Registrarse</a>
                         <a href="../pages/salir.php" class="btn btn-sm px-3 py-2">Cerrar sesión</a>

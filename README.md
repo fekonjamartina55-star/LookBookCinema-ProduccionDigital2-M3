@@ -28,17 +28,16 @@ El proyecto está dividido en index.php y en 3 carpetas:
 
         - «detalle.php» --> Página que muestra el perfil de cada película (sacando los datos de la tabla «peliculas»).
 
-        - «form.php» --> Muestra un formulario de inicio de sesión. Permite enviar datos de inicio de sesión.
+        - «form_login.php» --> Muestra un formulario de inicio de sesión. Permite enviar datos de inicio de sesión.
+
+        - «form_registro.php» --> Muestra un formulario de registro. Permite enviar datos de registro de un nuevo usuario.
+
+        - «login.php» --> Recibe la información del formulario de inicio de sesión.
 
         - «recibebusq.php» --> Recibe la información del formulario de búsqueda y muestra los resultados.
 
-        - «recibeform.php» --> Recibe la información del formulario de inicio de sesión.
+        - «registro.php» --> Recibe la información del formulario de registro.
 
-        - «salir.php» -->
+        - «salir.php» --> Permite el cerrar la sesión.
 
-        - «panel.php» -->
-
-        - «form_registro.php» -->
-
-Para navegar por las diferentes secciones de la página se tiene que hacer uso de los botones del header.
-
+Para navegar por las diferentes secciones de la página se tiene que hacer uso de los botones del header. Para navegar estas secciones, se tiene que iniciar sesión previamente. En caso de no tener un usuario, se tiene que registrar y crear uno; creando un nuevo registro en la tabla «usuarios».
