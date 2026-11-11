@@ -1,3 +1,12 @@
+<?php
+    session_start();
+
+    if (!isset($_SESSION['id'])) {
+        header("Location: form_login.php");
+        exit();
+    }
+?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -38,7 +47,7 @@
 
                     <!-- Botón de Inicio de Sesión -->
                     <div class="iconodeusuario text-end">
-                        <a href="../pages/form.php">
+                        <a href="../pages/form_login.php">
                             <img src="../img/usuario1.png" alt="Usuario" class="img-usuario">
                         </a>
                     </div>

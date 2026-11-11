@@ -10,12 +10,12 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@6.0.0-alpha.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-B/GM4XqrwHnWXNOWMbloTmrYXZg10cakYGmpfsR/bbzQ6JAJI4ihuyADKLnBgrCe" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
         <link rel="stylesheet" href="../css/stylesheet.css">
-        <title>LookBook Cinema · Iniciar Sesión</title>
+        <title>LookBook Cinema · Registrarse</title>
     </head>
     
     <body>
         <header class="container-fluid pt-6 pb-4 px-3 px-md-5 header">
-            <!-- Contenedor de Logo y contenedor de Barra de Búsqueda y Botón de Inicio de Sesión -->
+            <!-- Contenedor de Logo y contenedor de Barra de Búsqueda y Botón de Registrarse -->
             <div class="row align-items-center justify-content-center gy-3 mb-3">
                 <!-- Logo -->
                 <div class="col-3 col-md-auto logo">
@@ -24,7 +24,7 @@
                     </a>
                 </div>
                 
-                <!-- Contenedor de Barra de Búsqueda y Botón de Inicio de Sesión -->
+                <!-- Contenedor de Barra de Búsqueda y Botón de Registrarse -->
                 <div class="col-9 col-md-8 col-lg-7 d-flex align-items-center justify-content-end gap-2 gap-md-3">
                     <!-- Barra de Búsqueda -->
                     <form action="../pages/recibebusq.php" method="GET" class="input-group barradebusq1">
@@ -36,9 +36,9 @@
                         </div>
                     </form>
 
-                    <!-- Botón de Inicio de Sesión -->
+                    <!-- Botón de Inicio de Registrarse -->
                     <div class="iconodeusuario text-end">
-                        <a href="../pages/form.php">
+                        <a href="../pages/form_login.php">
                             <img src="../img/usuario1.png" alt="Usuario" class="img-usuario">
                         </a>
                     </div>
@@ -60,10 +60,10 @@
 
         <main class="maindelform">
             <div class="contenedordelform">
-                <h1>Iniciar Sesión</h1>
+                <h1>Registrarse</h1>
 
-                <!-- Formulario de inicio de sesión -->
-                <form action="recibeform.php" method="post">
+                <!-- Formulario de Registro -->
+                <form action="registro.php" method="post">
                     <div class="campodelform">
                         <label for="usuario">Usuario:</label>
                         <input type="text" id="usuario" name="usuario" placeholder="Juan" required class="inputcampos">
@@ -86,7 +86,7 @@
 
                     <!-- Botones de enviar y restablecer -->
                     <div class="botonesdelform">
-                        <input type="submit">
+                        <input type="submit" value="Registrarse">
                         <input type="reset">
                     </div>
                 </form>
